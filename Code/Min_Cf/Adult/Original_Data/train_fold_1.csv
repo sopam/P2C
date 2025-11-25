@@ -1,0 +1,801 @@
+Checking_account_status,Duration_months,Credit_history,Purpose,Credit_amount,Savings_account_or_bonds,Present_employment_since,Installment_rate,Personal_status,Other_debtors,Present_residence_since,Property,Age_years,Other_installment_plans,Housing,Number_existing_credits,Job,Number_people_liable,Telephone,Foreign_worker,Label
+<0,6,critical_account,radio/television,1169,unknown_or_no_savings_account,>7,4,male-single,none,4,real_estate,67,none,own,2,skilled_employee/official,1,yes,no,good
+no_checking_account,12,critical_account,education,2096,<100,4=<_and_<7,2,male-single,none,3,real_estate,49,none,own,1,unskilled-resident,2,no,no,good
+<0,42,existing_dues_cleared_for_now,furniture/equipment,7882,<100,4=<_and_<7,2,male-single,guarantor,4,building society/savings agreement/life insurance,45,none,for_free,1,skilled_employee/official,2,no,no,good
+<0,24,delay_in_paying_off,car (new),4870,<100,1=<_and_<4,3,male-single,none,4,unknown/no_property,53,none,for_free,2,skilled_employee/official,2,no,no,bad
+no_checking_account,36,existing_dues_cleared_for_now,education,9055,unknown_or_no_savings_account,1=<_and_<4,2,male-single,none,4,unknown/no_property,35,none,for_free,1,unskilled-resident,2,yes,no,good
+no_checking_account,24,existing_dues_cleared_for_now,furniture/equipment,2835,500=<_and_<1000,>7,3,male-single,none,4,building society/savings agreement/life insurance,53,none,own,1,skilled_employee/official,1,no,no,good
+0=<_and_<200,36,existing_dues_cleared_for_now,car (used),6948,<100,1=<_and_<4,2,male-single,none,2,car or other,35,none,rent,1,management/self-employed/highly_qualified/officer,1,yes,no,good
+no_checking_account,12,existing_dues_cleared_for_now,radio/television,3059,>1000,4=<_and_<7,2,male-divorced/separated,none,4,real_estate,61,none,own,1,unskilled-resident,1,no,no,good
+0=<_and_<200,12,existing_dues_cleared_for_now,car (new),1295,<100,<1,3,female-divorced/separated/married,none,1,car or other,25,none,rent,1,skilled_employee/official,1,no,no,bad
+0=<_and_<200,12,existing_dues_cleared_for_now,radio/television,1567,<100,1=<_and_<4,1,female-divorced/separated/married,none,1,car or other,22,none,own,1,skilled_employee/official,1,yes,no,good
+<0,24,critical_account,car (new),1199,<100,>7,4,male-single,none,4,car or other,60,none,own,2,unskilled-resident,1,no,no,bad
+<0,15,existing_dues_cleared_for_now,car (new),1403,<100,1=<_and_<4,2,female-divorced/separated/married,none,4,car or other,28,none,rent,1,skilled_employee/official,1,no,no,good
+<0,24,existing_dues_cleared_for_now,radio/television,1282,100=<_and_<500,1=<_and_<4,4,female-divorced/separated/married,none,2,car or other,32,none,own,1,unskilled-resident,1,no,no,bad
+no_checking_account,24,critical_account,radio/television,2424,unknown_or_no_savings_account,>7,4,male-single,none,4,building society/savings agreement/life insurance,53,none,own,2,skilled_employee/official,1,no,no,good
+<0,30,none_taken/all_dues_cleared,business,8072,unknown_or_no_savings_account,<1,2,male-single,none,3,car or other,25,bank,own,3,skilled_employee/official,1,no,no,good
+0=<_and_<200,24,existing_dues_cleared_for_now,car (used),12579,<100,>7,4,female-divorced/separated/married,none,2,unknown/no_property,44,none,for_free,1,management/self-employed/highly_qualified/officer,1,yes,no,bad
+no_checking_account,24,existing_dues_cleared_for_now,radio/television,3430,500=<_and_<1000,>7,3,male-single,none,2,car or other,31,none,own,1,skilled_employee/official,2,yes,no,good
+no_checking_account,9,critical_account,car (new),2134,<100,1=<_and_<4,4,male-single,none,4,car or other,48,none,own,3,skilled_employee/official,1,yes,no,good
+<0,10,critical_account,car (new),2241,<100,<1,1,male-single,none,3,real_estate,48,none,rent,2,unskilled-resident,2,no,yes,good
+0=<_and_<200,12,critical_account,car (used),1804,100=<_and_<500,<1,3,male-single,none,4,building society/savings agreement/life insurance,44,none,own,1,skilled_employee/official,1,no,no,good
+no_checking_account,10,critical_account,furniture/equipment,2069,unknown_or_no_savings_account,1=<_and_<4,2,male-married/widowed,none,1,car or other,26,none,own,2,skilled_employee/official,1,no,yes,good
+<0,6,existing_dues_cleared_for_now,furniture/equipment,1374,<100,1=<_and_<4,1,male-single,none,2,real_estate,36,bank,own,1,unskilled-resident,1,yes,no,good
+no_checking_account,6,none_taken/all_dues_cleared,radio/television,426,<100,>7,4,male-married/widowed,none,4,car or other,39,none,own,1,unskilled-resident,1,no,no,good
+>200,12,all_dues_atbank_cleared,radio/television,409,>1000,1=<_and_<4,3,female-divorced/separated/married,none,3,real_estate,42,none,rent,2,skilled_employee/official,1,no,no,good
+0=<_and_<200,7,existing_dues_cleared_for_now,radio/television,2415,<100,1=<_and_<4,3,male-single,guarantor,2,real_estate,34,none,own,1,skilled_employee/official,1,no,no,good
+0=<_and_<200,18,existing_dues_cleared_for_now,business,1913,>1000,<1,3,male-married/widowed,none,3,real_estate,36,bank,own,1,skilled_employee/official,1,yes,no,good
+<0,24,existing_dues_cleared_for_now,furniture/equipment,4020,<100,1=<_and_<4,2,male-single,none,2,car or other,27,stores,own,1,skilled_employee/official,1,no,no,good
+0=<_and_<200,18,existing_dues_cleared_for_now,car (new),5866,100=<_and_<500,1=<_and_<4,2,male-single,none,2,car or other,30,none,own,2,skilled_employee/official,1,yes,no,good
+no_checking_account,12,critical_account,business,1264,unknown_or_no_savings_account,>7,4,male-single,none,4,unknown/no_property,57,none,rent,1,unskilled-resident,1,no,no,good
+>200,12,existing_dues_cleared_for_now,furniture/equipment,1474,<100,<1,4,female-divorced/separated/married,none,1,building society/savings agreement/life insurance,33,bank,own,1,management/self-employed/highly_qualified/officer,1,yes,no,good
+0=<_and_<200,45,critical_account,radio/television,4746,<100,<1,4,male-single,none,2,building society/savings agreement/life insurance,25,none,own,2,unskilled-resident,1,no,no,bad
+no_checking_account,48,critical_account,education,6110,<100,1=<_and_<4,1,male-single,none,3,unknown/no_property,31,bank,for_free,1,skilled_employee/official,1,yes,no,good
+>200,18,existing_dues_cleared_for_now,radio/television,2100,<100,1=<_and_<4,4,male-single,co-applicant,2,real_estate,37,stores,own,1,skilled_employee/official,1,no,no,bad
+0=<_and_<200,9,existing_dues_cleared_for_now,radio/television,458,<100,1=<_and_<4,4,male-single,none,3,real_estate,24,none,own,1,skilled_employee/official,1,no,no,good
+no_checking_account,30,existing_dues_cleared_for_now,radio/television,2333,500=<_and_<1000,>7,4,male-single,none,2,car or other,30,bank,own,1,management/self-employed/highly_qualified/officer,1,no,no,good
+0=<_and_<200,18,delay_in_paying_off,repairs,6204,<100,1=<_and_<4,2,male-single,none,4,real_estate,44,none,own,1,unskilled-resident,2,yes,no,good
+no_checking_account,36,existing_dues_cleared_for_now,radio/television,2299,500=<_and_<1000,>7,4,male-single,none,4,car or other,39,none,own,1,skilled_employee/official,1,no,no,good
+<0,6,existing_dues_cleared_for_now,car (used),1352,500=<_and_<1000,unemployed,1,female-divorced/separated/married,none,2,building society/savings agreement/life insurance,23,none,rent,1,unemployed/unskilled-non_resident,1,yes,no,good
+no_checking_account,11,critical_account,car (new),7228,<100,1=<_and_<4,1,male-single,none,4,building society/savings agreement/life insurance,39,none,own,2,unskilled-resident,1,no,no,good
+no_checking_account,12,existing_dues_cleared_for_now,radio/television,2073,100=<_and_<500,1=<_and_<4,4,female-divorced/separated/married,co-applicant,2,real_estate,28,none,own,1,skilled_employee/official,1,no,no,good
+0=<_and_<200,24,delay_in_paying_off,furniture/equipment,2333,unknown_or_no_savings_account,<1,4,male-single,none,2,building society/savings agreement/life insurance,29,bank,own,1,unskilled-resident,1,no,no,good
+no_checking_account,12,existing_dues_cleared_for_now,radio/television,1262,<100,1=<_and_<4,3,male-single,none,2,car or other,25,none,own,1,skilled_employee/official,1,no,no,good
+0=<_and_<200,36,delay_in_paying_off,car (new),2225,<100,>7,4,male-single,none,4,unknown/no_property,57,bank,for_free,2,skilled_employee/official,1,yes,no,bad
+no_checking_account,6,all_dues_atbank_cleared,car (new),783,unknown_or_no_savings_account,1=<_and_<4,1,male-single,guarantor,2,real_estate,26,stores,own,1,unskilled-resident,2,no,no,good
+0=<_and_<200,12,existing_dues_cleared_for_now,radio/television,6468,unknown_or_no_savings_account,unemployed,2,male-single,none,1,unknown/no_property,52,none,own,1,management/self-employed/highly_qualified/officer,1,yes,no,bad
+no_checking_account,36,critical_account,radio/television,9566,<100,1=<_and_<4,2,female-divorced/separated/married,none,2,car or other,31,stores,own,2,skilled_employee/official,1,no,no,good
+>200,18,existing_dues_cleared_for_now,car (new),1961,<100,>7,3,female-divorced/separated/married,none,2,car or other,23,none,own,1,management/self-employed/highly_qualified/officer,1,no,no,good
+<0,36,critical_account,furniture/equipment,6229,<100,<1,4,female-divorced/separated/married,co-applicant,4,unknown/no_property,23,none,rent,2,unskilled-resident,1,yes,no,bad
+0=<_and_<200,9,existing_dues_cleared_for_now,business,1391,<100,1=<_and_<4,2,male-married/widowed,none,1,real_estate,27,bank,own,1,skilled_employee/official,1,yes,no,good
+0=<_and_<200,15,critical_account,radio/television,1537,unknown_or_no_savings_account,>7,4,male-single,guarantor,4,real_estate,50,none,own,2,skilled_employee/official,1,yes,no,good
+0=<_and_<200,36,none_taken/all_dues_cleared,business,1953,<100,>7,4,male-single,none,4,unknown/no_property,61,none,for_free,1,management/self-employed/highly_qualified/officer,1,yes,no,bad
+0=<_and_<200,48,none_taken/all_dues_cleared,business,14421,<100,1=<_and_<4,2,male-single,none,2,car or other,25,none,own,1,skilled_employee/official,1,yes,no,bad
+no_checking_account,24,existing_dues_cleared_for_now,radio/television,3181,<100,<1,4,female-divorced/separated/married,none,4,building society/savings agreement/life insurance,26,none,own,1,skilled_employee/official,1,yes,no,good
+no_checking_account,12,existing_dues_cleared_for_now,radio/television,2171,<100,<1,2,female-divorced/separated/married,none,2,car or other,29,bank,own,1,skilled_employee/official,1,no,no,good
+0=<_and_<200,12,existing_dues_cleared_for_now,car (new),1007,>1000,1=<_and_<4,4,male-married/widowed,none,1,real_estate,22,none,own,1,skilled_employee/official,1,no,no,good
+no_checking_account,36,existing_dues_cleared_for_now,education,1819,<100,1=<_and_<4,4,male-single,none,4,unknown/no_property,37,stores,for_free,1,skilled_employee/official,1,yes,no,bad
+no_checking_account,36,existing_dues_cleared_for_now,car (used),8133,<100,1=<_and_<4,1,female-divorced/separated/married,none,2,building society/savings agreement/life insurance,30,bank,own,1,skilled_employee/official,1,no,no,good
+0=<_and_<200,42,critical_account,business,5954,<100,4=<_and_<7,2,female-divorced/separated/married,none,1,real_estate,41,bank,own,2,unskilled-resident,1,no,no,good
+<0,36,existing_dues_cleared_for_now,education,1977,unknown_or_no_savings_account,>7,4,male-single,none,4,unknown/no_property,40,none,own,1,management/self-employed/highly_qualified/officer,1,yes,no,bad
+<0,12,critical_account,car (used),1526,<100,>7,4,male-single,none,4,unknown/no_property,66,none,for_free,2,management/self-employed/highly_qualified/officer,1,no,no,good
+<0,42,existing_dues_cleared_for_now,radio/television,3965,<100,<1,4,male-single,none,3,car or other,34,none,own,1,skilled_employee/official,1,no,no,bad
+0=<_and_<200,11,delay_in_paying_off,radio/television,4771,<100,4=<_and_<7,2,male-single,none,4,building society/savings agreement/life insurance,51,none,own,1,skilled_employee/official,1,no,no,good
+no_checking_account,54,none_taken/all_dues_cleared,car (used),9436,unknown_or_no_savings_account,1=<_and_<4,2,male-single,none,2,building society/savings agreement/life insurance,39,none,own,1,unskilled-resident,2,no,no,good
+0=<_and_<200,30,existing_dues_cleared_for_now,furniture/equipment,3832,<100,<1,2,male-married/widowed,none,1,building society/savings agreement/life insurance,22,none,own,1,skilled_employee/official,1,no,no,good
+no_checking_account,18,existing_dues_cleared_for_now,business,1568,100=<_and_<500,1=<_and_<4,3,female-divorced/separated/married,none,4,building society/savings agreement/life insurance,24,none,rent,1,unskilled-resident,1,no,no,good
+<0,24,existing_dues_cleared_for_now,others,1755,<100,>7,4,female-divorced/separated/married,guarantor,4,real_estate,58,none,own,1,unskilled-resident,1,yes,no,good
+no_checking_account,12,critical_account,business,1412,<100,1=<_and_<4,4,female-divorced/separated/married,guarantor,2,real_estate,29,none,own,2,management/self-employed/highly_qualified/officer,1,yes,no,good
+0=<_and_<200,18,critical_account,furniture/equipment,1295,<100,<1,4,female-divorced/separated/married,none,1,building society/savings agreement/life insurance,27,none,own,2,skilled_employee/official,1,no,no,good
+0=<_and_<200,36,existing_dues_cleared_for_now,education,12612,100=<_and_<500,1=<_and_<4,1,male-single,none,4,unknown/no_property,47,none,for_free,1,skilled_employee/official,2,yes,no,bad
+<0,18,existing_dues_cleared_for_now,car (new),2249,100=<_and_<500,4=<_and_<7,4,male-single,none,3,car or other,30,none,own,1,management/self-employed/highly_qualified/officer,2,yes,no,good
+no_checking_account,12,critical_account,radio/television,797,unknown_or_no_savings_account,>7,4,female-divorced/separated/married,none,3,building society/savings agreement/life insurance,33,bank,own,1,unskilled-resident,2,no,no,bad
+>200,24,critical_account,furniture/equipment,3617,unknown_or_no_savings_account,>7,4,male-single,co-applicant,4,unknown/no_property,20,none,rent,2,skilled_employee/official,1,no,no,good
+0=<_and_<200,12,existing_dues_cleared_for_now,car (new),1318,>1000,>7,4,male-single,none,4,real_estate,54,none,own,1,skilled_employee/official,1,yes,no,good
+0=<_and_<200,54,none_taken/all_dues_cleared,business,15945,<100,<1,3,male-single,none,4,unknown/no_property,58,none,rent,1,skilled_employee/official,1,yes,no,bad
+0=<_and_<200,18,existing_dues_cleared_for_now,business,2622,100=<_and_<500,1=<_and_<4,4,male-single,none,4,car or other,34,none,own,1,skilled_employee/official,1,no,no,good
+0=<_and_<200,20,delay_in_paying_off,car (used),7057,unknown_or_no_savings_account,4=<_and_<7,3,male-single,none,4,building society/savings agreement/life insurance,36,bank,rent,2,management/self-employed/highly_qualified/officer,2,yes,no,good
+no_checking_account,24,existing_dues_cleared_for_now,car (new),1469,100=<_and_<500,>7,4,male-married/widowed,none,4,real_estate,41,none,rent,1,unskilled-resident,1,no,no,good
+0=<_and_<200,36,existing_dues_cleared_for_now,radio/television,2323,<100,4=<_and_<7,4,male-single,none,4,car or other,24,none,rent,1,skilled_employee/official,1,no,no,good
+no_checking_account,6,delay_in_paying_off,radio/television,932,<100,1=<_and_<4,3,female-divorced/separated/married,none,2,real_estate,24,none,own,1,skilled_employee/official,1,no,no,good
+no_checking_account,12,existing_dues_cleared_for_now,car (used),2445,unknown_or_no_savings_account,<1,2,male-married/widowed,none,4,car or other,26,none,rent,1,skilled_employee/official,1,yes,no,good
+0=<_and_<200,24,critical_account,others,11938,<100,1=<_and_<4,2,male-single,co-applicant,3,car or other,39,none,own,2,management/self-employed/highly_qualified/officer,2,yes,no,bad
+no_checking_account,18,all_dues_atbank_cleared,car (new),6458,<100,>7,2,male-single,none,4,unknown/no_property,39,bank,own,2,management/self-employed/highly_qualified/officer,2,yes,no,bad
+0=<_and_<200,12,existing_dues_cleared_for_now,car (new),6078,<100,4=<_and_<7,2,male-single,none,2,car or other,32,none,own,1,skilled_employee/official,1,no,no,good
+<0,24,existing_dues_cleared_for_now,furniture/equipment,7721,unknown_or_no_savings_account,<1,1,female-divorced/separated/married,none,2,building society/savings agreement/life insurance,30,none,own,1,skilled_employee/official,1,yes,yes,good
+0=<_and_<200,14,existing_dues_cleared_for_now,business,1410,500=<_and_<1000,>7,1,male-married/widowed,none,2,real_estate,35,none,own,1,skilled_employee/official,1,yes,no,good
+0=<_and_<200,6,delay_in_paying_off,business,1449,100=<_and_<500,>7,1,male-divorced/separated,none,2,car or other,31,bank,own,2,skilled_employee/official,2,no,no,good
+0=<_and_<200,18,existing_dues_cleared_for_now,car (new),6260,<100,4=<_and_<7,3,male-single,none,3,real_estate,28,none,rent,1,unskilled-resident,1,no,no,good
+no_checking_account,36,critical_account,car (new),7855,<100,1=<_and_<4,4,female-divorced/separated/married,none,2,real_estate,25,stores,own,2,skilled_employee/official,1,yes,no,bad
+no_checking_account,48,critical_account,radio/television,3578,unknown_or_no_savings_account,>7,4,male-single,none,1,real_estate,47,none,own,1,skilled_employee/official,1,yes,no,good
+<0,42,existing_dues_cleared_for_now,radio/television,7174,unknown_or_no_savings_account,4=<_and_<7,4,female-divorced/separated/married,none,3,car or other,30,none,own,1,management/self-employed/highly_qualified/officer,1,yes,no,bad
+<0,33,critical_account,furniture/equipment,4281,500=<_and_<1000,1=<_and_<4,1,female-divorced/separated/married,none,4,car or other,23,none,own,2,skilled_employee/official,1,no,no,bad
+<0,21,existing_dues_cleared_for_now,radio/television,1835,<100,1=<_and_<4,3,female-divorced/separated/married,none,2,real_estate,25,none,own,2,skilled_employee/official,1,yes,no,bad
+no_checking_account,24,critical_account,car (used),3868,<100,>7,4,female-divorced/separated/married,none,2,car or other,41,none,rent,2,management/self-employed/highly_qualified/officer,1,yes,no,good
+no_checking_account,12,existing_dues_cleared_for_now,furniture/equipment,1768,<100,1=<_and_<4,3,male-single,none,2,real_estate,24,none,rent,1,unskilled-resident,1,no,no,good
+0=<_and_<200,18,existing_dues_cleared_for_now,furniture/equipment,1924,unknown_or_no_savings_account,<1,4,female-divorced/separated/married,none,3,real_estate,27,none,rent,1,skilled_employee/official,1,no,no,bad
+<0,12,critical_account,car (new),2121,<100,1=<_and_<4,4,male-single,none,2,building society/savings agreement/life insurance,30,none,own,2,skilled_employee/official,1,no,no,good
+0=<_and_<200,12,existing_dues_cleared_for_now,repairs,639,<100,1=<_and_<4,4,male-single,none,2,car or other,30,none,own,1,skilled_employee/official,1,no,no,bad
+0=<_and_<200,12,critical_account,car (used),1860,<100,unemployed,4,male-single,none,2,car or other,34,none,own,2,management/self-employed/highly_qualified/officer,1,yes,no,good
+<0,12,critical_account,car (new),3499,<100,1=<_and_<4,3,female-divorced/separated/married,co-applicant,2,real_estate,29,none,own,2,skilled_employee/official,1,no,no,bad
+0=<_and_<200,48,existing_dues_cleared_for_now,car (new),8487,unknown_or_no_savings_account,4=<_and_<7,1,female-divorced/separated/married,none,2,car or other,24,none,own,1,skilled_employee/official,1,no,no,good
+<0,36,delay_in_paying_off,education,6887,<100,1=<_and_<4,4,male-single,none,3,building society/savings agreement/life insurance,29,stores,own,1,skilled_employee/official,1,yes,no,bad
+no_checking_account,15,existing_dues_cleared_for_now,furniture/equipment,2708,<100,<1,2,male-single,none,3,building society/savings agreement/life insurance,27,bank,own,2,unskilled-resident,1,no,no,good
+no_checking_account,18,existing_dues_cleared_for_now,furniture/equipment,1984,<100,1=<_and_<4,4,male-single,none,4,unknown/no_property,47,bank,for_free,2,skilled_employee/official,1,no,no,good
+no_checking_account,60,existing_dues_cleared_for_now,radio/television,10144,100=<_and_<500,4=<_and_<7,2,female-divorced/separated/married,none,4,real_estate,21,none,own,1,skilled_employee/official,1,yes,no,good
+no_checking_account,12,critical_account,radio/television,1240,unknown_or_no_savings_account,>7,4,female-divorced/separated/married,none,2,real_estate,38,none,own,2,skilled_employee/official,1,yes,no,good
+no_checking_account,27,delay_in_paying_off,car (used),8613,>1000,1=<_and_<4,2,male-single,none,2,car or other,27,none,own,2,skilled_employee/official,1,no,no,good
+0=<_and_<200,12,existing_dues_cleared_for_now,radio/television,766,500=<_and_<1000,1=<_and_<4,4,male-single,none,3,real_estate,66,none,own,1,unskilled-resident,1,no,no,bad
+0=<_and_<200,15,critical_account,radio/television,2728,unknown_or_no_savings_account,4=<_and_<7,4,male-single,guarantor,2,real_estate,35,bank,own,3,skilled_employee/official,1,yes,no,good
+>200,12,existing_dues_cleared_for_now,radio/television,1881,<100,1=<_and_<4,2,female-divorced/separated/married,none,2,car or other,44,none,rent,1,unskilled-resident,1,yes,no,good
+0=<_and_<200,36,existing_dues_cleared_for_now,radio/television,4795,<100,<1,4,female-divorced/separated/married,none,1,unknown/no_property,30,none,own,1,management/self-employed/highly_qualified/officer,1,yes,no,good
+<0,18,existing_dues_cleared_for_now,furniture/equipment,2462,<100,1=<_and_<4,2,male-single,none,2,car or other,22,none,own,1,skilled_employee/official,1,no,no,bad
+0=<_and_<200,48,all_dues_atbank_cleared,business,3566,100=<_and_<500,4=<_and_<7,4,male-single,none,2,car or other,30,none,own,1,skilled_employee/official,1,no,no,good
+no_checking_account,12,critical_account,car (new),682,100=<_and_<500,4=<_and_<7,4,female-divorced/separated/married,none,3,car or other,51,none,own,2,skilled_employee/official,1,yes,no,good
+<0,36,critical_account,furniture/equipment,5371,<100,1=<_and_<4,3,male-single,guarantor,2,building society/savings agreement/life insurance,28,none,own,2,skilled_employee/official,1,no,no,good
+no_checking_account,10,existing_dues_cleared_for_now,radio/television,1924,<100,1=<_and_<4,1,male-single,none,4,building society/savings agreement/life insurance,38,none,own,1,skilled_employee/official,1,yes,yes,good
+>200,36,existing_dues_cleared_for_now,radio/television,5848,<100,1=<_and_<4,4,male-single,none,1,car or other,24,none,own,1,skilled_employee/official,1,no,no,good
+0=<_and_<200,24,critical_account,car (used),7758,>1000,>7,2,female-divorced/separated/married,none,4,unknown/no_property,29,none,rent,1,skilled_employee/official,1,no,no,good
+0=<_and_<200,24,delay_in_paying_off,business,6967,100=<_and_<500,4=<_and_<7,4,male-single,none,4,car or other,36,none,rent,1,management/self-employed/highly_qualified/officer,1,yes,no,good
+<0,12,existing_dues_cleared_for_now,furniture/equipment,1282,<100,1=<_and_<4,2,female-divorced/separated/married,none,4,car or other,20,none,rent,1,skilled_employee/official,1,no,no,bad
+<0,9,critical_account,repairs,1288,100=<_and_<500,>7,3,male-single,guarantor,4,real_estate,48,none,own,2,skilled_employee/official,2,no,yes,good
+<0,12,all_dues_atbank_cleared,retraining,339,<100,>7,4,male-married/widowed,none,1,car or other,45,bank,own,1,unskilled-resident,1,no,no,good
+0=<_and_<200,24,existing_dues_cleared_for_now,car (new),3512,100=<_and_<500,4=<_and_<7,2,male-single,none,3,car or other,38,bank,own,2,skilled_employee/official,1,yes,no,good
+no_checking_account,6,critical_account,radio/television,1898,unknown_or_no_savings_account,1=<_and_<4,1,male-single,none,2,real_estate,34,none,own,2,unskilled-resident,2,no,no,good
+no_checking_account,24,critical_account,radio/television,2872,100=<_and_<500,>7,3,male-single,none,4,real_estate,36,none,own,1,skilled_employee/official,2,yes,no,good
+no_checking_account,18,critical_account,car (new),1055,<100,<1,4,female-divorced/separated/married,none,1,building society/savings agreement/life insurance,30,none,own,2,skilled_employee/official,1,no,no,good
+no_checking_account,15,existing_dues_cleared_for_now,domestic appliances,1262,500=<_and_<1000,4=<_and_<7,4,male-single,none,3,building society/savings agreement/life insurance,36,none,own,2,skilled_employee/official,1,yes,no,good
+no_checking_account,36,existing_dues_cleared_for_now,car (new),909,500=<_and_<1000,>7,4,male-single,none,4,building society/savings agreement/life insurance,36,none,own,1,skilled_employee/official,1,no,no,good
+no_checking_account,6,existing_dues_cleared_for_now,furniture/equipment,2978,500=<_and_<1000,1=<_and_<4,1,male-single,none,2,car or other,32,none,own,1,skilled_employee/official,1,yes,no,good
+<0,18,existing_dues_cleared_for_now,furniture/equipment,1131,<100,unemployed,4,female-divorced/separated/married,none,2,car or other,33,none,own,1,skilled_employee/official,1,no,no,bad
+0=<_and_<200,11,existing_dues_cleared_for_now,furniture/equipment,1577,>1000,<1,4,female-divorced/separated/married,none,1,real_estate,20,none,own,1,skilled_employee/official,1,no,no,good
+0=<_and_<200,24,critical_account,business,1935,<100,>7,4,male-divorced/separated,none,4,real_estate,31,none,own,2,skilled_employee/official,1,yes,no,bad
+<0,15,none_taken/all_dues_cleared,car (new),950,<100,>7,4,male-single,none,3,car or other,33,none,rent,2,skilled_employee/official,2,no,no,bad
+0=<_and_<200,24,delay_in_paying_off,furniture/equipment,2064,<100,unemployed,3,female-divorced/separated/married,none,2,building society/savings agreement/life insurance,34,none,own,1,management/self-employed/highly_qualified/officer,1,yes,no,bad
+0=<_and_<200,8,existing_dues_cleared_for_now,radio/television,1414,<100,1=<_and_<4,4,male-single,guarantor,2,real_estate,33,none,own,1,skilled_employee/official,1,no,yes,good
+<0,6,critical_account,radio/television,338,500=<_and_<1000,>7,4,male-single,none,4,car or other,52,none,own,2,skilled_employee/official,1,no,no,good
+no_checking_account,12,existing_dues_cleared_for_now,radio/television,1963,<100,4=<_and_<7,4,male-single,none,2,car or other,31,none,rent,2,management/self-employed/highly_qualified/officer,2,yes,no,good
+no_checking_account,36,delay_in_paying_off,business,9572,<100,<1,1,male-divorced/separated,none,1,car or other,28,none,own,2,skilled_employee/official,1,no,no,bad
+0=<_and_<200,36,delay_in_paying_off,business,4455,<100,1=<_and_<4,2,male-divorced/separated,none,2,real_estate,30,stores,own,2,management/self-employed/highly_qualified/officer,1,yes,no,bad
+<0,21,all_dues_atbank_cleared,car (new),1647,unknown_or_no_savings_account,1=<_and_<4,4,male-single,none,2,building society/savings agreement/life insurance,40,none,own,2,unskilled-resident,2,no,no,bad
+no_checking_account,24,critical_account,furniture/equipment,3777,>1000,1=<_and_<4,4,male-single,none,4,real_estate,50,none,own,1,skilled_employee/official,1,yes,no,good
+0=<_and_<200,18,critical_account,car (new),884,<100,>7,4,male-single,none,4,car or other,36,bank,own,1,skilled_employee/official,2,yes,no,bad
+no_checking_account,15,critical_account,radio/television,1360,<100,1=<_and_<4,4,male-single,none,2,building society/savings agreement/life insurance,31,none,own,2,skilled_employee/official,1,no,no,good
+0=<_and_<200,9,all_dues_atbank_cleared,car (used),5129,<100,>7,2,female-divorced/separated/married,none,4,unknown/no_property,74,bank,for_free,1,management/self-employed/highly_qualified/officer,2,yes,no,bad
+0=<_and_<200,16,critical_account,car (new),1175,<100,unemployed,2,male-single,none,3,car or other,68,none,for_free,3,unemployed/unskilled-non_resident,1,yes,no,good
+<0,12,existing_dues_cleared_for_now,radio/television,674,100=<_and_<500,4=<_and_<7,4,male-married/widowed,none,1,building society/savings agreement/life insurance,20,none,own,1,skilled_employee/official,1,no,no,bad
+no_checking_account,24,existing_dues_cleared_for_now,business,4591,>1000,1=<_and_<4,2,male-single,none,3,building society/savings agreement/life insurance,54,none,own,3,management/self-employed/highly_qualified/officer,1,yes,no,bad
+0=<_and_<200,48,none_taken/all_dues_cleared,business,3844,100=<_and_<500,4=<_and_<7,4,male-single,none,4,unknown/no_property,34,none,for_free,1,unskilled-resident,2,no,no,bad
+0=<_and_<200,27,existing_dues_cleared_for_now,business,3915,<100,1=<_and_<4,4,male-single,none,2,car or other,36,none,own,1,skilled_employee/official,2,yes,no,bad
+0=<_and_<200,9,critical_account,education,1501,<100,>7,2,female-divorced/separated/married,none,3,car or other,34,none,own,2,management/self-employed/highly_qualified/officer,1,yes,no,bad
+0=<_and_<200,24,existing_dues_cleared_for_now,car (used),2760,unknown_or_no_savings_account,>7,4,male-single,none,4,unknown/no_property,36,bank,for_free,1,skilled_employee/official,1,yes,no,good
+0=<_and_<200,18,delay_in_paying_off,furniture/equipment,4297,<100,>7,4,male-divorced/separated,none,3,unknown/no_property,40,none,own,1,management/self-employed/highly_qualified/officer,1,yes,no,bad
+no_checking_account,9,critical_account,education,936,500=<_and_<1000,>7,4,male-single,none,2,car or other,52,none,own,2,skilled_employee/official,1,yes,no,good
+<0,12,existing_dues_cleared_for_now,car (new),1168,<100,1=<_and_<4,4,male-married/widowed,none,3,real_estate,27,none,own,1,unskilled-resident,1,no,no,good
+no_checking_account,27,delay_in_paying_off,business,5117,<100,4=<_and_<7,3,male-single,none,4,car or other,26,none,own,2,skilled_employee/official,1,no,no,good
+<0,12,existing_dues_cleared_for_now,retraining,902,<100,4=<_and_<7,4,male-married/widowed,none,4,building society/savings agreement/life insurance,21,none,rent,1,skilled_employee/official,1,no,no,bad
+no_checking_account,12,critical_account,car (new),1495,<100,>7,4,male-single,none,1,real_estate,38,none,own,2,unskilled-resident,2,no,no,good
+<0,30,critical_account,car (used),10623,<100,>7,3,male-single,none,4,unknown/no_property,38,none,for_free,3,management/self-employed/highly_qualified/officer,2,yes,no,good
+no_checking_account,12,critical_account,furniture/equipment,1935,<100,>7,4,male-single,none,4,real_estate,43,none,own,3,skilled_employee/official,1,yes,no,good
+<0,24,existing_dues_cleared_for_now,business,6568,<100,1=<_and_<4,2,male-married/widowed,none,2,car or other,21,stores,own,1,unskilled-resident,1,no,no,good
+no_checking_account,12,existing_dues_cleared_for_now,car (used),1413,>1000,4=<_and_<7,3,male-single,none,2,building society/savings agreement/life insurance,55,none,own,1,skilled_employee/official,1,no,yes,good
+no_checking_account,9,critical_account,radio/television,3074,unknown_or_no_savings_account,1=<_and_<4,1,male-single,none,2,real_estate,33,none,own,2,skilled_employee/official,2,no,no,good
+no_checking_account,36,existing_dues_cleared_for_now,radio/television,3835,unknown_or_no_savings_account,>7,2,female-divorced/separated/married,none,4,real_estate,45,none,own,1,unskilled-resident,1,yes,no,good
+<0,27,none_taken/all_dues_cleared,business,5293,<100,unemployed,2,male-single,none,4,building society/savings agreement/life insurance,50,stores,own,2,skilled_employee/official,1,yes,no,bad
+>200,30,delay_in_paying_off,business,1908,<100,>7,4,male-single,none,4,real_estate,66,none,own,1,management/self-employed/highly_qualified/officer,1,yes,no,bad
+0=<_and_<200,6,critical_account,retraining,932,unknown_or_no_savings_account,4=<_and_<7,1,female-divorced/separated/married,none,3,building society/savings agreement/life insurance,39,none,own,2,unskilled-resident,1,no,no,good
+<0,18,none_taken/all_dues_cleared,business,3104,<100,4=<_and_<7,3,male-single,none,1,building society/savings agreement/life insurance,31,bank,own,1,skilled_employee/official,1,yes,no,good
+<0,24,existing_dues_cleared_for_now,furniture/equipment,3021,<100,1=<_and_<4,2,male-divorced/separated,none,2,real_estate,24,none,rent,1,unskilled-resident,1,no,no,good
+no_checking_account,10,existing_dues_cleared_for_now,car (new),1364,<100,1=<_and_<4,2,female-divorced/separated/married,none,4,car or other,64,none,own,1,skilled_employee/official,1,yes,no,good
+0=<_and_<200,12,existing_dues_cleared_for_now,radio/television,625,<100,<1,4,male-married/widowed,guarantor,1,real_estate,26,bank,own,1,unskilled-resident,1,no,no,good
+<0,12,existing_dues_cleared_for_now,education,1200,unknown_or_no_savings_account,1=<_and_<4,4,female-divorced/separated/married,none,4,building society/savings agreement/life insurance,23,bank,rent,1,skilled_employee/official,1,yes,no,good
+no_checking_account,12,existing_dues_cleared_for_now,radio/television,707,<100,1=<_and_<4,4,male-single,none,2,real_estate,30,bank,own,2,skilled_employee/official,1,no,no,good
+no_checking_account,24,delay_in_paying_off,business,2978,unknown_or_no_savings_account,1=<_and_<4,4,male-single,none,4,real_estate,32,none,own,2,skilled_employee/official,2,yes,no,good
+no_checking_account,15,existing_dues_cleared_for_now,car (used),4657,<100,1=<_and_<4,3,male-single,none,2,car or other,30,none,own,1,skilled_employee/official,1,yes,no,good
+no_checking_account,36,none_taken/all_dues_cleared,repairs,2613,<100,1=<_and_<4,4,male-single,none,2,car or other,27,none,own,2,skilled_employee/official,1,no,no,good
+<0,12,existing_dues_cleared_for_now,furniture/equipment,7865,<100,>7,4,male-single,none,4,unknown/no_property,53,none,for_free,1,management/self-employed/highly_qualified/officer,1,yes,no,bad
+no_checking_account,9,existing_dues_cleared_for_now,radio/television,1478,<100,4=<_and_<7,4,male-single,none,2,car or other,22,none,own,1,skilled_employee/official,1,no,no,bad
+<0,24,existing_dues_cleared_for_now,furniture/equipment,3149,<100,<1,4,male-single,none,1,unknown/no_property,22,bank,for_free,1,skilled_employee/official,1,no,no,good
+>200,36,existing_dues_cleared_for_now,radio/television,4210,<100,1=<_and_<4,4,male-single,none,2,car or other,26,none,own,1,skilled_employee/official,1,no,no,bad
+no_checking_account,9,existing_dues_cleared_for_now,car (new),2507,500=<_and_<1000,>7,2,male-single,none,4,unknown/no_property,51,none,for_free,1,unskilled-resident,1,no,no,good
+no_checking_account,12,existing_dues_cleared_for_now,radio/television,2141,100=<_and_<500,4=<_and_<7,3,male-single,none,1,unknown/no_property,35,none,own,1,skilled_employee/official,1,no,no,good
+0=<_and_<200,18,existing_dues_cleared_for_now,radio/television,866,<100,1=<_and_<4,4,male-married/widowed,guarantor,2,real_estate,25,none,own,1,unskilled-resident,1,no,no,good
+no_checking_account,4,critical_account,radio/television,1544,<100,4=<_and_<7,2,male-single,none,1,real_estate,42,none,own,3,unskilled-resident,2,no,no,good
+<0,24,existing_dues_cleared_for_now,radio/television,1823,<100,unemployed,4,male-single,none,2,car or other,30,stores,own,1,management/self-employed/highly_qualified/officer,2,no,no,bad
+0=<_and_<200,6,existing_dues_cleared_for_now,car (new),14555,unknown_or_no_savings_account,unemployed,1,male-single,none,2,building society/savings agreement/life insurance,23,none,own,1,unemployed/unskilled-non_resident,1,yes,no,bad
+0=<_and_<200,21,existing_dues_cleared_for_now,business,2767,100=<_and_<500,>7,4,male-divorced/separated,none,2,car or other,61,bank,rent,2,unskilled-resident,1,no,no,bad
+no_checking_account,12,critical_account,radio/television,1291,<100,1=<_and_<4,4,female-divorced/separated/married,none,2,building society/savings agreement/life insurance,35,none,own,2,skilled_employee/official,1,no,no,good
+<0,30,existing_dues_cleared_for_now,radio/television,2522,<100,>7,1,male-single,guarantor,3,building society/savings agreement/life insurance,39,none,own,1,skilled_employee/official,2,no,no,good
+<0,24,existing_dues_cleared_for_now,car (new),915,unknown_or_no_savings_account,>7,4,female-divorced/separated/married,none,2,car or other,29,bank,own,1,skilled_employee/official,1,no,no,bad
+no_checking_account,6,existing_dues_cleared_for_now,radio/television,1595,<100,4=<_and_<7,3,male-single,none,2,building society/savings agreement/life insurance,51,none,own,1,skilled_employee/official,2,no,no,good
+<0,48,none_taken/all_dues_cleared,car (used),4605,<100,>7,3,male-single,none,4,unknown/no_property,24,none,for_free,2,skilled_employee/official,2,no,no,bad
+no_checking_account,12,critical_account,business,1185,<100,1=<_and_<4,3,female-divorced/separated/married,none,2,real_estate,27,none,own,2,skilled_employee/official,1,no,no,good
+no_checking_account,12,all_dues_atbank_cleared,retraining,3447,500=<_and_<1000,1=<_and_<4,4,female-divorced/separated/married,none,3,real_estate,35,none,own,1,unskilled-resident,2,no,no,good
+no_checking_account,24,existing_dues_cleared_for_now,business,1258,<100,4=<_and_<7,4,male-single,none,1,real_estate,25,none,own,1,skilled_employee/official,1,yes,no,good
+no_checking_account,12,critical_account,radio/television,717,<100,>7,4,male-single,none,4,real_estate,52,none,own,3,skilled_employee/official,1,no,no,good
+no_checking_account,6,none_taken/all_dues_cleared,car (new),1204,100=<_and_<500,1=<_and_<4,4,male-single,none,1,unknown/no_property,35,bank,rent,1,skilled_employee/official,1,no,yes,good
+>200,24,existing_dues_cleared_for_now,furniture/equipment,1925,<100,1=<_and_<4,2,male-single,none,2,real_estate,26,none,own,1,skilled_employee/official,1,no,no,good
+no_checking_account,18,existing_dues_cleared_for_now,radio/television,433,<100,unemployed,3,female-divorced/separated/married,co-applicant,4,real_estate,22,none,rent,1,skilled_employee/official,1,no,no,bad
+<0,6,critical_account,car (new),666,>1000,4=<_and_<7,3,female-divorced/separated/married,none,4,real_estate,39,none,own,2,unskilled-resident,1,yes,no,good
+>200,12,existing_dues_cleared_for_now,furniture/equipment,2251,<100,1=<_and_<4,1,female-divorced/separated/married,none,2,car or other,46,none,own,1,unskilled-resident,1,no,no,good
+0=<_and_<200,60,delay_in_paying_off,radio/television,7418,unknown_or_no_savings_account,1=<_and_<4,1,male-single,none,1,real_estate,27,none,own,1,unskilled-resident,1,no,no,good
+no_checking_account,24,critical_account,radio/television,2684,<100,1=<_and_<4,4,male-single,none,2,real_estate,35,none,own,2,unskilled-resident,1,no,no,good
+<0,12,all_dues_atbank_cleared,radio/television,2149,<100,1=<_and_<4,4,male-divorced/separated,none,1,unknown/no_property,29,none,for_free,1,skilled_employee/official,1,no,no,bad
+no_checking_account,15,existing_dues_cleared_for_now,car (used),3812,100=<_and_<500,<1,1,female-divorced/separated/married,none,4,car or other,23,none,own,1,skilled_employee/official,1,yes,no,good
+<0,18,critical_account,car (new),5302,<100,>7,2,male-single,none,4,unknown/no_property,36,none,for_free,3,management/self-employed/highly_qualified/officer,1,yes,no,good
+no_checking_account,12,critical_account,education,2748,<100,>7,2,female-divorced/separated/married,none,4,unknown/no_property,57,bank,for_free,3,unskilled-resident,1,no,no,good
+no_checking_account,10,critical_account,car (new),1231,<100,>7,3,male-single,none,4,real_estate,32,none,own,2,unskilled-resident,2,no,yes,good
+no_checking_account,36,critical_account,business,6304,unknown_or_no_savings_account,>7,4,male-single,none,4,real_estate,36,none,own,2,skilled_employee/official,1,no,no,good
+no_checking_account,24,existing_dues_cleared_for_now,radio/television,1533,<100,<1,4,female-divorced/separated/married,none,3,car or other,38,stores,own,1,skilled_employee/official,1,yes,no,good
+no_checking_account,24,existing_dues_cleared_for_now,radio/television,999,unknown_or_no_savings_account,>7,4,male-single,none,2,car or other,25,none,own,2,skilled_employee/official,1,no,no,good
+no_checking_account,18,existing_dues_cleared_for_now,car (new),2662,unknown_or_no_savings_account,4=<_and_<7,4,male-single,none,3,building society/savings agreement/life insurance,32,none,own,1,skilled_employee/official,1,no,yes,good
+<0,30,existing_dues_cleared_for_now,repairs,11998,<100,<1,1,male-divorced/separated,none,1,unknown/no_property,34,none,own,1,unskilled-resident,1,yes,no,bad
+<0,12,existing_dues_cleared_for_now,furniture/equipment,1262,unknown_or_no_savings_account,>7,2,male-divorced/separated,none,4,building society/savings agreement/life insurance,49,none,own,1,unskilled-resident,1,yes,no,good
+no_checking_account,6,existing_dues_cleared_for_now,furniture/equipment,4611,<100,<1,1,female-divorced/separated/married,none,4,building society/savings agreement/life insurance,32,none,own,1,skilled_employee/official,1,no,no,bad
+no_checking_account,24,existing_dues_cleared_for_now,radio/television,1901,100=<_and_<500,1=<_and_<4,4,male-single,none,4,car or other,29,none,rent,1,management/self-employed/highly_qualified/officer,1,yes,no,good
+no_checking_account,15,critical_account,car (used),3368,>1000,>7,3,male-single,none,4,unknown/no_property,23,none,rent,2,skilled_employee/official,1,yes,no,good
+no_checking_account,15,critical_account,furniture/equipment,1520,unknown_or_no_savings_account,>7,4,male-single,none,4,building society/savings agreement/life insurance,63,none,own,1,skilled_employee/official,1,no,no,good
+0=<_and_<200,24,critical_account,car (new),3878,100=<_and_<500,<1,4,male-divorced/separated,none,2,car or other,37,none,own,1,skilled_employee/official,1,yes,no,good
+<0,47,existing_dues_cleared_for_now,car (new),10722,<100,<1,1,female-divorced/separated/married,none,1,real_estate,35,none,own,1,unskilled-resident,1,yes,no,good
+<0,48,existing_dues_cleared_for_now,car (used),4788,<100,4=<_and_<7,4,male-single,none,3,building society/savings agreement/life insurance,26,none,own,1,skilled_employee/official,2,no,no,good
+0=<_and_<200,48,delay_in_paying_off,others,7582,100=<_and_<500,unemployed,2,male-single,none,4,unknown/no_property,31,none,for_free,1,management/self-employed/highly_qualified/officer,1,yes,no,good
+0=<_and_<200,12,existing_dues_cleared_for_now,radio/television,1092,<100,1=<_and_<4,4,female-divorced/separated/married,guarantor,4,real_estate,49,none,own,2,skilled_employee/official,1,yes,no,good
+<0,24,delay_in_paying_off,radio/television,1024,<100,<1,4,male-married/widowed,none,4,real_estate,48,stores,own,1,skilled_employee/official,1,no,no,bad
+no_checking_account,12,existing_dues_cleared_for_now,business,1076,<100,1=<_and_<4,2,male-married/widowed,none,2,real_estate,26,none,own,1,skilled_employee/official,1,yes,yes,good
+<0,24,critical_account,car (used),6419,<100,>7,2,female-divorced/separated/married,none,4,unknown/no_property,44,none,for_free,2,management/self-employed/highly_qualified/officer,2,yes,no,good
+>200,42,critical_account,car (used),4796,<100,>7,4,male-single,none,4,unknown/no_property,56,none,for_free,1,skilled_employee/official,1,no,no,good
+no_checking_account,48,critical_account,business,7629,unknown_or_no_savings_account,>7,4,male-divorced/separated,none,2,car or other,46,bank,own,2,management/self-employed/highly_qualified/officer,2,no,no,good
+0=<_and_<200,48,existing_dues_cleared_for_now,furniture/equipment,9960,<100,<1,1,female-divorced/separated/married,none,2,car or other,26,none,own,1,skilled_employee/official,1,yes,no,bad
+no_checking_account,12,existing_dues_cleared_for_now,car (used),4675,unknown_or_no_savings_account,<1,1,female-divorced/separated/married,none,4,car or other,20,none,rent,1,skilled_employee/official,1,no,no,good
+no_checking_account,18,existing_dues_cleared_for_now,furniture/equipment,2515,<100,1=<_and_<4,3,male-single,none,4,real_estate,43,none,own,1,skilled_employee/official,1,yes,no,good
+0=<_and_<200,21,critical_account,furniture/equipment,2745,>1000,4=<_and_<7,3,male-single,none,2,car or other,32,none,own,2,skilled_employee/official,1,yes,no,good
+no_checking_account,6,existing_dues_cleared_for_now,car (new),672,<100,unemployed,1,female-divorced/separated/married,none,4,real_estate,54,none,own,1,unemployed/unskilled-non_resident,1,yes,no,good
+0=<_and_<200,36,none_taken/all_dues_cleared,radio/television,3804,<100,1=<_and_<4,4,female-divorced/separated/married,none,1,car or other,42,none,own,1,skilled_employee/official,1,yes,no,bad
+>200,24,critical_account,car (new),1344,unknown_or_no_savings_account,4=<_and_<7,4,male-single,none,2,real_estate,37,bank,own,2,unskilled-resident,2,no,no,bad
+<0,10,critical_account,car (new),1038,<100,4=<_and_<7,4,male-single,co-applicant,3,building society/savings agreement/life insurance,49,none,own,2,skilled_employee/official,1,yes,no,good
+no_checking_account,48,critical_account,car (new),10127,500=<_and_<1000,1=<_and_<4,2,male-single,none,2,unknown/no_property,44,bank,for_free,1,skilled_employee/official,1,no,no,bad
+<0,12,existing_dues_cleared_for_now,radio/television,727,100=<_and_<500,<1,4,male-married/widowed,none,3,unknown/no_property,33,none,own,1,unskilled-resident,1,yes,no,bad
+0=<_and_<200,48,existing_dues_cleared_for_now,others,5381,unknown_or_no_savings_account,unemployed,3,male-single,none,4,unknown/no_property,40,bank,for_free,1,unemployed/unskilled-non_resident,1,yes,no,good
+no_checking_account,24,existing_dues_cleared_for_now,furniture/equipment,5511,100=<_and_<500,1=<_and_<4,4,male-single,none,1,car or other,25,stores,own,1,skilled_employee/official,1,no,no,good
+>200,24,existing_dues_cleared_for_now,furniture/equipment,3749,<100,<1,2,female-divorced/separated/married,none,4,car or other,26,none,own,1,skilled_employee/official,1,no,no,good
+0=<_and_<200,12,existing_dues_cleared_for_now,car (new),685,<100,4=<_and_<7,2,male-married/widowed,none,3,car or other,25,bank,own,1,unskilled-resident,1,no,no,bad
+>200,4,existing_dues_cleared_for_now,car (new),1494,unknown_or_no_savings_account,<1,1,male-single,none,2,real_estate,29,none,own,1,unskilled-resident,2,no,yes,good
+<0,36,all_dues_atbank_cleared,furniture/equipment,2746,<100,>7,4,male-single,none,4,car or other,31,bank,own,1,skilled_employee/official,1,no,no,bad
+<0,12,existing_dues_cleared_for_now,furniture/equipment,708,<100,1=<_and_<4,2,male-single,guarantor,3,building society/savings agreement/life insurance,38,none,own,1,unskilled-resident,2,no,no,good
+0=<_and_<200,24,existing_dues_cleared_for_now,furniture/equipment,4351,unknown_or_no_savings_account,1=<_and_<4,1,female-divorced/separated/married,none,4,building society/savings agreement/life insurance,48,none,own,1,unskilled-resident,1,yes,no,good
+<0,15,delay_in_paying_off,furniture/equipment,3643,<100,>7,1,female-divorced/separated/married,none,4,building society/savings agreement/life insurance,27,none,own,2,unskilled-resident,1,no,no,good
+0=<_and_<200,30,critical_account,car (new),4249,<100,unemployed,4,male-married/widowed,none,2,car or other,28,none,own,2,management/self-employed/highly_qualified/officer,1,no,no,bad
+<0,24,existing_dues_cleared_for_now,car (used),2910,<100,4=<_and_<7,2,male-single,none,1,unknown/no_property,34,none,for_free,1,management/self-employed/highly_qualified/officer,1,yes,no,good
+no_checking_account,18,critical_account,car (new),1028,<100,1=<_and_<4,4,female-divorced/separated/married,none,3,real_estate,36,none,own,2,skilled_employee/official,1,no,no,good
+<0,8,critical_account,car (new),3398,<100,4=<_and_<7,1,male-single,none,4,real_estate,39,none,own,2,unskilled-resident,1,no,yes,good
+>200,36,existing_dues_cleared_for_now,radio/television,4473,<100,>7,4,male-single,none,2,car or other,31,none,own,1,skilled_employee/official,1,no,no,good
+0=<_and_<200,6,existing_dues_cleared_for_now,radio/television,1068,<100,>7,4,male-single,none,4,car or other,28,none,own,1,skilled_employee/official,2,no,no,good
+<0,24,critical_account,car (used),6615,<100,unemployed,2,male-single,none,4,unknown/no_property,75,none,for_free,2,management/self-employed/highly_qualified/officer,1,yes,no,good
+no_checking_account,18,critical_account,education,1864,100=<_and_<500,1=<_and_<4,4,female-divorced/separated/married,none,2,real_estate,30,none,own,2,skilled_employee/official,1,no,no,bad
+0=<_and_<200,60,existing_dues_cleared_for_now,car (new),7408,100=<_and_<500,<1,4,female-divorced/separated/married,none,2,building society/savings agreement/life insurance,24,none,own,1,management/self-employed/highly_qualified/officer,1,no,no,bad
+no_checking_account,48,critical_account,car (used),11590,100=<_and_<500,1=<_and_<4,2,female-divorced/separated/married,none,4,car or other,24,bank,rent,2,unskilled-resident,1,no,no,bad
+<0,24,none_taken/all_dues_cleared,furniture/equipment,4110,<100,>7,3,male-single,none,4,unknown/no_property,23,bank,rent,2,skilled_employee/official,2,no,no,bad
+0=<_and_<200,13,existing_dues_cleared_for_now,radio/television,2101,<100,<1,2,female-divorced/separated/married,guarantor,4,building society/savings agreement/life insurance,23,none,own,1,unskilled-resident,1,no,no,good
+<0,24,existing_dues_cleared_for_now,furniture/equipment,4169,<100,1=<_and_<4,4,male-single,none,4,building society/savings agreement/life insurance,28,none,own,1,skilled_employee/official,1,no,no,good
+0=<_and_<200,24,critical_account,education,5743,<100,<1,2,female-divorced/separated/married,none,4,unknown/no_property,24,none,for_free,2,skilled_employee/official,1,yes,no,good
+<0,21,existing_dues_cleared_for_now,furniture/equipment,3599,<100,4=<_and_<7,1,female-divorced/separated/married,none,4,car or other,26,none,rent,1,unskilled-resident,1,no,no,good
+0=<_and_<200,18,existing_dues_cleared_for_now,radio/television,3213,500=<_and_<1000,<1,1,male-married/widowed,none,3,real_estate,25,none,rent,1,skilled_employee/official,1,no,no,good
+0=<_and_<200,18,existing_dues_cleared_for_now,business,4439,<100,>7,1,male-single,co-applicant,1,real_estate,33,bank,own,1,management/self-employed/highly_qualified/officer,1,yes,no,good
+>200,10,existing_dues_cleared_for_now,car (new),3949,<100,<1,1,male-single,guarantor,1,building society/savings agreement/life insurance,37,none,own,1,unskilled-resident,2,no,no,good
+no_checking_account,15,critical_account,radio/television,1459,<100,1=<_and_<4,4,female-divorced/separated/married,none,2,car or other,43,none,own,1,unskilled-resident,1,no,no,good
+0=<_and_<200,13,critical_account,radio/television,882,<100,<1,4,male-single,guarantor,4,real_estate,23,none,own,2,skilled_employee/official,1,no,no,good
+0=<_and_<200,24,existing_dues_cleared_for_now,radio/television,3758,500=<_and_<1000,unemployed,1,female-divorced/separated/married,none,4,unknown/no_property,23,none,rent,1,unemployed/unskilled-non_resident,1,no,no,good
+no_checking_account,6,delay_in_paying_off,business,1743,100=<_and_<500,1=<_and_<4,1,male-single,none,2,real_estate,34,none,own,2,unskilled-resident,1,no,no,good
+0=<_and_<200,9,critical_account,education,1136,>1000,>7,4,male-single,none,3,unknown/no_property,32,none,for_free,2,skilled_employee/official,2,no,no,bad
+no_checking_account,18,critical_account,car (used),3229,unknown_or_no_savings_account,unemployed,2,male-single,none,4,unknown/no_property,38,none,own,1,management/self-employed/highly_qualified/officer,1,yes,no,good
+<0,12,none_taken/all_dues_cleared,radio/television,6199,<100,1=<_and_<4,4,male-single,none,2,building society/savings agreement/life insurance,28,none,rent,2,skilled_employee/official,1,yes,no,bad
+no_checking_account,10,existing_dues_cleared_for_now,education,727,500=<_and_<1000,>7,4,male-single,none,4,unknown/no_property,46,none,for_free,1,skilled_employee/official,1,yes,no,good
+0=<_and_<200,24,existing_dues_cleared_for_now,car (new),1246,<100,<1,4,male-single,none,2,real_estate,23,stores,own,1,unskilled-resident,1,no,no,bad
+no_checking_account,12,critical_account,radio/television,2331,unknown_or_no_savings_account,>7,1,male-single,co-applicant,4,real_estate,49,none,own,1,skilled_employee/official,1,yes,no,good
+no_checking_account,36,delay_in_paying_off,radio/television,4463,<100,1=<_and_<4,4,male-single,none,2,car or other,26,none,own,2,management/self-employed/highly_qualified/officer,1,yes,no,bad
+no_checking_account,12,existing_dues_cleared_for_now,radio/television,776,<100,1=<_and_<4,4,male-married/widowed,none,2,real_estate,28,none,own,1,skilled_employee/official,1,no,no,good
+<0,30,existing_dues_cleared_for_now,furniture/equipment,2406,<100,4=<_and_<7,4,female-divorced/separated/married,none,4,real_estate,23,none,rent,1,skilled_employee/official,1,no,no,bad
+0=<_and_<200,18,existing_dues_cleared_for_now,education,1239,unknown_or_no_savings_account,1=<_and_<4,4,male-single,none,4,unknown/no_property,61,none,for_free,1,skilled_employee/official,1,no,no,good
+>200,12,existing_dues_cleared_for_now,radio/television,3399,unknown_or_no_savings_account,>7,2,male-single,none,3,car or other,37,none,own,1,management/self-employed/highly_qualified/officer,1,no,no,good
+>200,12,delay_in_paying_off,car (new),2247,<100,1=<_and_<4,2,female-divorced/separated/married,none,2,car or other,36,stores,own,2,skilled_employee/official,1,yes,no,good
+no_checking_account,6,existing_dues_cleared_for_now,furniture/equipment,1766,<100,1=<_and_<4,1,male-married/widowed,none,2,building society/savings agreement/life insurance,21,none,rent,1,skilled_employee/official,1,no,no,good
+<0,18,existing_dues_cleared_for_now,furniture/equipment,2473,<100,unemployed,4,male-single,none,1,car or other,25,none,own,1,unemployed/unskilled-non_resident,1,no,no,bad
+no_checking_account,18,critical_account,car (used),3850,<100,4=<_and_<7,3,male-single,none,1,car or other,27,none,own,2,skilled_employee/official,1,no,no,good
+<0,36,existing_dues_cleared_for_now,furniture/equipment,3446,<100,>7,4,male-single,none,2,car or other,42,none,own,1,skilled_employee/official,2,no,no,bad
+0=<_and_<200,18,existing_dues_cleared_for_now,furniture/equipment,3001,<100,4=<_and_<7,2,female-divorced/separated/married,none,4,real_estate,40,none,rent,1,skilled_employee/official,1,no,no,good
+no_checking_account,36,existing_dues_cleared_for_now,car (new),3079,unknown_or_no_savings_account,1=<_and_<4,4,male-single,none,4,real_estate,36,none,own,1,skilled_employee/official,1,no,no,good
+no_checking_account,18,critical_account,radio/television,6070,<100,>7,3,male-single,none,4,car or other,33,none,own,2,skilled_employee/official,1,yes,no,good
+no_checking_account,60,critical_account,car (new),13756,unknown_or_no_savings_account,>7,2,male-single,none,4,unknown/no_property,63,bank,for_free,1,management/self-employed/highly_qualified/officer,1,yes,no,good
+<0,48,all_dues_atbank_cleared,business,7685,<100,4=<_and_<7,2,female-divorced/separated/married,guarantor,4,car or other,37,none,rent,1,skilled_employee/official,1,no,no,bad
+0=<_and_<200,36,existing_dues_cleared_for_now,car (new),14318,<100,>7,4,male-single,none,2,unknown/no_property,57,none,for_free,1,management/self-employed/highly_qualified/officer,1,yes,no,bad
+no_checking_account,6,critical_account,car (new),362,100=<_and_<500,1=<_and_<4,4,female-divorced/separated/married,none,4,car or other,52,none,own,2,unskilled-resident,1,no,no,good
+<0,20,existing_dues_cleared_for_now,furniture/equipment,2212,unknown_or_no_savings_account,4=<_and_<7,4,male-single,none,4,car or other,39,none,own,1,skilled_employee/official,1,yes,no,good
+0=<_and_<200,18,existing_dues_cleared_for_now,car (used),12976,<100,unemployed,3,female-divorced/separated/married,none,4,unknown/no_property,38,none,for_free,1,management/self-employed/highly_qualified/officer,1,yes,no,bad
+>200,12,existing_dues_cleared_for_now,car (new),1330,<100,<1,4,male-single,none,1,real_estate,26,none,own,1,skilled_employee/official,1,no,no,good
+no_checking_account,30,delay_in_paying_off,business,4272,100=<_and_<500,1=<_and_<4,2,male-single,none,2,building society/savings agreement/life insurance,26,none,own,2,unskilled-resident,1,no,no,good
+no_checking_account,18,critical_account,radio/television,2238,<100,1=<_and_<4,2,female-divorced/separated/married,none,1,car or other,25,none,own,2,skilled_employee/official,1,no,no,good
+no_checking_account,18,existing_dues_cleared_for_now,radio/television,1126,unknown_or_no_savings_account,<1,4,female-divorced/separated/married,none,2,real_estate,21,none,rent,1,skilled_employee/official,1,yes,no,good
+0=<_and_<200,18,critical_account,furniture/equipment,7374,<100,unemployed,4,male-single,none,4,building society/savings agreement/life insurance,40,stores,own,2,management/self-employed/highly_qualified/officer,1,yes,no,good
+no_checking_account,9,existing_dues_cleared_for_now,business,1449,<100,4=<_and_<7,3,female-divorced/separated/married,none,2,car or other,27,none,own,2,skilled_employee/official,1,no,no,good
+no_checking_account,18,existing_dues_cleared_for_now,car (new),1820,<100,1=<_and_<4,2,male-married/widowed,none,2,building society/savings agreement/life insurance,30,none,own,1,management/self-employed/highly_qualified/officer,1,yes,no,good
+0=<_and_<200,12,existing_dues_cleared_for_now,furniture/equipment,983,>1000,<1,1,female-divorced/separated/married,none,4,real_estate,19,none,rent,1,unskilled-resident,1,no,no,good
+<0,36,existing_dues_cleared_for_now,car (new),3249,<100,4=<_and_<7,2,male-single,none,4,unknown/no_property,39,bank,for_free,1,management/self-employed/highly_qualified/officer,2,yes,no,good
+<0,6,critical_account,radio/television,1957,<100,4=<_and_<7,1,female-divorced/separated/married,none,4,car or other,31,none,own,1,skilled_employee/official,1,no,no,good
+no_checking_account,9,critical_account,furniture/equipment,2406,<100,unemployed,2,male-single,none,3,car or other,31,none,own,1,management/self-employed/highly_qualified/officer,1,no,no,good
+0=<_and_<200,39,delay_in_paying_off,education,11760,100=<_and_<500,4=<_and_<7,2,male-single,none,3,unknown/no_property,32,none,rent,1,skilled_employee/official,1,yes,no,good
+<0,12,existing_dues_cleared_for_now,furniture/equipment,2578,<100,unemployed,3,female-divorced/separated/married,none,4,unknown/no_property,55,none,for_free,1,management/self-employed/highly_qualified/officer,1,no,no,good
+<0,36,critical_account,furniture/equipment,2348,<100,1=<_and_<4,3,male-married/widowed,none,2,building society/savings agreement/life insurance,46,none,own,2,skilled_employee/official,1,yes,no,good
+no_checking_account,24,critical_account,radio/television,1516,>1000,1=<_and_<4,4,female-divorced/separated/married,none,1,real_estate,43,none,own,2,unskilled-resident,1,no,no,good
+no_checking_account,18,existing_dues_cleared_for_now,radio/television,1473,<100,<1,3,male-married/widowed,none,4,real_estate,39,none,own,1,skilled_employee/official,1,yes,no,good
+0=<_and_<200,18,critical_account,business,1887,unknown_or_no_savings_account,1=<_and_<4,4,male-married/widowed,none,4,real_estate,28,bank,own,2,skilled_employee/official,1,no,no,good
+no_checking_account,24,delay_in_paying_off,business,8648,<100,<1,2,male-single,none,2,car or other,27,bank,own,2,skilled_employee/official,1,yes,no,bad
+0=<_and_<200,18,delay_in_paying_off,car (new),2899,unknown_or_no_savings_account,>7,4,male-single,none,4,car or other,43,none,own,1,skilled_employee/official,2,no,no,good
+0=<_and_<200,24,existing_dues_cleared_for_now,radio/television,2039,<100,<1,1,male-married/widowed,none,1,building society/savings agreement/life insurance,22,none,own,1,skilled_employee/official,1,yes,no,bad
+no_checking_account,24,critical_account,car (used),2197,unknown_or_no_savings_account,4=<_and_<7,4,male-single,none,4,car or other,43,none,own,2,skilled_employee/official,2,yes,no,good
+<0,15,existing_dues_cleared_for_now,radio/television,1053,<100,<1,4,male-married/widowed,none,2,real_estate,27,none,own,1,skilled_employee/official,1,no,yes,good
+no_checking_account,24,existing_dues_cleared_for_now,radio/television,3235,500=<_and_<1000,>7,3,male-divorced/separated,none,2,car or other,26,none,own,1,management/self-employed/highly_qualified/officer,1,yes,no,good
+no_checking_account,33,critical_account,car (used),7253,<100,4=<_and_<7,3,male-single,none,2,car or other,35,none,own,2,management/self-employed/highly_qualified/officer,1,yes,no,good
+no_checking_account,12,critical_account,business,2292,<100,unemployed,4,male-single,none,2,car or other,42,stores,own,2,management/self-employed/highly_qualified/officer,1,yes,no,bad
+no_checking_account,10,existing_dues_cleared_for_now,car (new),1597,500=<_and_<1000,1=<_and_<4,3,male-single,none,2,unknown/no_property,40,none,rent,1,unskilled-resident,2,no,yes,good
+<0,24,existing_dues_cleared_for_now,car (new),1381,unknown_or_no_savings_account,1=<_and_<4,4,female-divorced/separated/married,none,2,building society/savings agreement/life insurance,35,none,own,1,skilled_employee/official,1,no,no,bad
+no_checking_account,36,critical_account,car (used),5842,<100,>7,2,male-single,none,2,building society/savings agreement/life insurance,35,none,own,2,skilled_employee/official,2,yes,no,good
+<0,12,existing_dues_cleared_for_now,car (new),2579,<100,<1,4,male-single,none,1,real_estate,33,none,own,1,unskilled-resident,2,no,no,bad
+no_checking_account,21,existing_dues_cleared_for_now,car (new),2782,500=<_and_<1000,4=<_and_<7,1,female-divorced/separated/married,none,2,car or other,31,bank,own,1,management/self-employed/highly_qualified/officer,1,no,no,good
+0=<_and_<200,18,existing_dues_cleared_for_now,car (new),1042,unknown_or_no_savings_account,1=<_and_<4,4,female-divorced/separated/married,none,2,building society/savings agreement/life insurance,33,none,own,1,skilled_employee/official,1,no,no,bad
+no_checking_account,15,existing_dues_cleared_for_now,car (new),3186,>1000,4=<_and_<7,2,female-divorced/separated/married,none,3,car or other,20,none,rent,1,skilled_employee/official,1,no,no,good
+0=<_and_<200,12,existing_dues_cleared_for_now,car (used),2028,unknown_or_no_savings_account,1=<_and_<4,4,male-single,none,2,car or other,30,none,own,1,skilled_employee/official,1,no,no,good
+0=<_and_<200,12,critical_account,car (new),958,<100,4=<_and_<7,2,male-single,none,3,real_estate,47,none,own,2,unskilled-resident,2,no,no,good
+no_checking_account,21,delay_in_paying_off,furniture/equipment,1591,100=<_and_<500,4=<_and_<7,4,male-single,none,3,real_estate,34,none,own,2,management/self-employed/highly_qualified/officer,1,no,no,good
+0=<_and_<200,12,existing_dues_cleared_for_now,furniture/equipment,2762,unknown_or_no_savings_account,>7,1,female-divorced/separated/married,none,2,building society/savings agreement/life insurance,25,bank,own,1,skilled_employee/official,1,yes,no,bad
+0=<_and_<200,18,existing_dues_cleared_for_now,car (used),2779,<100,1=<_and_<4,1,male-married/widowed,none,3,car or other,21,none,rent,1,skilled_employee/official,1,yes,no,good
+no_checking_account,28,critical_account,radio/television,2743,<100,>7,4,male-single,none,2,car or other,29,none,own,2,skilled_employee/official,1,no,no,good
+no_checking_account,9,existing_dues_cleared_for_now,furniture/equipment,1313,<100,>7,1,male-single,none,4,car or other,20,none,own,1,skilled_employee/official,1,no,no,good
+<0,18,critical_account,repairs,1190,<100,unemployed,2,female-divorced/separated/married,none,4,unknown/no_property,55,none,for_free,3,unemployed/unskilled-non_resident,2,no,no,bad
+no_checking_account,5,existing_dues_cleared_for_now,business,3448,<100,4=<_and_<7,1,male-single,none,4,real_estate,74,none,own,1,unskilled-resident,1,no,no,good
+0=<_and_<200,24,existing_dues_cleared_for_now,others,11328,<100,1=<_and_<4,2,male-single,co-applicant,3,car or other,29,bank,own,2,management/self-employed/highly_qualified/officer,1,yes,no,bad
+<0,6,critical_account,furniture/equipment,1872,<100,unemployed,4,male-single,none,4,unknown/no_property,36,none,for_free,3,management/self-employed/highly_qualified/officer,1,yes,no,good
+no_checking_account,24,critical_account,repairs,2058,<100,1=<_and_<4,4,male-divorced/separated,none,2,real_estate,33,none,own,2,skilled_employee/official,1,yes,no,good
+<0,9,existing_dues_cleared_for_now,furniture/equipment,2136,<100,1=<_and_<4,3,male-single,none,2,real_estate,25,none,own,1,skilled_employee/official,1,no,no,good
+0=<_and_<200,12,existing_dues_cleared_for_now,radio/television,1484,unknown_or_no_savings_account,1=<_and_<4,2,male-married/widowed,none,1,real_estate,25,none,own,1,skilled_employee/official,1,yes,no,bad
+no_checking_account,6,existing_dues_cleared_for_now,repairs,660,500=<_and_<1000,4=<_and_<7,2,male-married/widowed,none,4,real_estate,23,none,rent,1,unskilled-resident,1,no,no,good
+no_checking_account,24,critical_account,car (new),1287,>1000,>7,4,female-divorced/separated/married,none,4,real_estate,37,none,own,2,skilled_employee/official,1,yes,no,good
+<0,42,critical_account,repairs,3394,<100,unemployed,4,male-single,co-applicant,4,car or other,65,none,own,2,unemployed/unskilled-non_resident,1,no,no,good
+>200,12,all_dues_atbank_cleared,business,609,<100,<1,4,female-divorced/separated/married,none,1,real_estate,26,none,own,1,unemployed/unskilled-non_resident,1,no,no,bad
+no_checking_account,12,existing_dues_cleared_for_now,car (new),1884,<100,>7,4,male-single,none,4,car or other,39,none,own,1,management/self-employed/highly_qualified/officer,1,yes,no,good
+<0,12,existing_dues_cleared_for_now,furniture/equipment,1620,<100,1=<_and_<4,2,female-divorced/separated/married,co-applicant,3,building society/savings agreement/life insurance,30,none,own,1,skilled_employee/official,1,no,no,good
+0=<_and_<200,20,delay_in_paying_off,others,2629,<100,1=<_and_<4,2,male-single,none,3,car or other,29,bank,own,2,skilled_employee/official,1,yes,no,good
+no_checking_account,12,existing_dues_cleared_for_now,education,719,<100,>7,4,male-single,none,4,car or other,41,bank,own,1,unskilled-resident,2,no,no,bad
+0=<_and_<200,48,critical_account,furniture/equipment,5096,<100,1=<_and_<4,2,female-divorced/separated/married,none,3,car or other,30,none,own,1,management/self-employed/highly_qualified/officer,1,yes,no,bad
+no_checking_account,9,critical_account,education,1244,unknown_or_no_savings_account,>7,4,female-divorced/separated/married,none,4,building society/savings agreement/life insurance,41,none,rent,2,unskilled-resident,1,no,no,good
+<0,36,existing_dues_cleared_for_now,car (new),1842,<100,<1,4,female-divorced/separated/married,none,4,car or other,34,none,own,1,skilled_employee/official,1,yes,no,bad
+>200,12,existing_dues_cleared_for_now,furniture/equipment,1424,unknown_or_no_savings_account,>7,3,female-divorced/separated/married,none,4,real_estate,55,none,own,1,management/self-employed/highly_qualified/officer,1,yes,no,good
+no_checking_account,36,critical_account,car (used),11054,unknown_or_no_savings_account,1=<_and_<4,4,male-single,none,2,car or other,30,none,own,1,management/self-employed/highly_qualified/officer,1,yes,no,good
+no_checking_account,6,existing_dues_cleared_for_now,radio/television,518,<100,1=<_and_<4,3,female-divorced/separated/married,none,1,real_estate,29,none,own,1,skilled_employee/official,1,no,no,good
+no_checking_account,12,none_taken/all_dues_cleared,furniture/equipment,2759,<100,>7,2,male-single,none,4,building society/savings agreement/life insurance,34,none,own,2,skilled_employee/official,1,no,no,good
+<0,24,existing_dues_cleared_for_now,car (new),4817,<100,4=<_and_<7,2,male-single,co-applicant,3,building society/savings agreement/life insurance,31,none,own,1,skilled_employee/official,1,yes,no,bad
+no_checking_account,24,existing_dues_cleared_for_now,car (used),2679,<100,<1,4,female-divorced/separated/married,none,1,unknown/no_property,29,none,own,1,management/self-employed/highly_qualified/officer,1,yes,no,good
+<0,12,existing_dues_cleared_for_now,car (used),3386,<100,>7,3,male-single,none,4,unknown/no_property,35,none,for_free,1,skilled_employee/official,1,yes,no,bad
+<0,6,existing_dues_cleared_for_now,domestic appliances,343,<100,<1,4,female-divorced/separated/married,none,1,real_estate,27,none,own,1,skilled_employee/official,1,no,no,good
+no_checking_account,18,existing_dues_cleared_for_now,radio/television,4594,<100,<1,3,male-single,none,2,car or other,32,none,own,1,skilled_employee/official,1,yes,no,good
+<0,36,existing_dues_cleared_for_now,furniture/equipment,3620,<100,1=<_and_<4,1,male-single,guarantor,2,building society/savings agreement/life insurance,37,none,own,1,skilled_employee/official,2,no,no,good
+<0,15,existing_dues_cleared_for_now,car (new),1721,<100,<1,2,male-single,none,3,real_estate,36,none,own,1,skilled_employee/official,1,no,no,good
+0=<_and_<200,12,existing_dues_cleared_for_now,furniture/equipment,3017,<100,<1,3,female-divorced/separated/married,none,1,real_estate,34,none,rent,1,management/self-employed/highly_qualified/officer,1,no,no,good
+0=<_and_<200,12,existing_dues_cleared_for_now,retraining,754,unknown_or_no_savings_account,>7,4,male-single,none,4,building society/savings agreement/life insurance,38,none,own,2,skilled_employee/official,1,no,no,good
+no_checking_account,18,existing_dues_cleared_for_now,business,1950,<100,4=<_and_<7,4,male-single,none,1,car or other,34,stores,own,2,skilled_employee/official,1,yes,no,good
+<0,24,existing_dues_cleared_for_now,car (used),2924,<100,1=<_and_<4,3,male-single,guarantor,4,unknown/no_property,63,bank,own,1,skilled_employee/official,2,yes,no,good
+<0,24,delay_in_paying_off,radio/television,1659,<100,<1,4,female-divorced/separated/married,none,2,car or other,29,none,rent,1,unskilled-resident,1,yes,no,bad
+no_checking_account,48,delay_in_paying_off,radio/television,7238,unknown_or_no_savings_account,>7,3,male-single,none,3,car or other,32,bank,own,2,skilled_employee/official,2,no,no,good
+no_checking_account,24,delay_in_paying_off,car (used),4679,<100,4=<_and_<7,3,male-single,none,3,car or other,35,none,own,2,unskilled-resident,1,yes,no,good
+0=<_and_<200,24,existing_dues_cleared_for_now,radio/television,3092,100=<_and_<500,<1,3,male-married/widowed,none,2,car or other,22,none,rent,1,skilled_employee/official,1,yes,no,bad
+<0,9,existing_dues_cleared_for_now,car (new),654,<100,1=<_and_<4,4,male-single,none,3,car or other,28,none,own,1,unskilled-resident,1,no,no,bad
+no_checking_account,6,existing_dues_cleared_for_now,retraining,1238,unknown_or_no_savings_account,unemployed,4,male-single,none,4,building society/savings agreement/life insurance,36,none,own,1,management/self-employed/highly_qualified/officer,2,yes,no,good
+0=<_and_<200,18,critical_account,radio/television,1245,<100,1=<_and_<4,4,male-married/widowed,none,2,car or other,33,none,own,1,skilled_employee/official,1,no,no,bad
+no_checking_account,39,existing_dues_cleared_for_now,car (used),2569,500=<_and_<1000,1=<_and_<4,4,male-single,none,4,car or other,24,none,own,1,skilled_employee/official,1,no,no,good
+0=<_and_<200,12,existing_dues_cleared_for_now,business,1037,100=<_and_<500,4=<_and_<7,3,male-single,none,4,real_estate,39,none,own,1,unskilled-resident,1,no,no,good
+<0,15,critical_account,furniture/equipment,1478,<100,>7,4,male-single,none,4,car or other,44,none,own,2,skilled_employee/official,2,yes,no,good
+0=<_and_<200,12,critical_account,radio/television,3573,<100,1=<_and_<4,1,female-divorced/separated/married,none,1,real_estate,23,none,own,1,unskilled-resident,1,no,no,good
+<0,30,existing_dues_cleared_for_now,furniture/equipment,3622,>1000,>7,4,female-divorced/separated/married,none,4,building society/savings agreement/life insurance,57,none,rent,2,skilled_employee/official,1,yes,no,good
+no_checking_account,15,delay_in_paying_off,furniture/equipment,960,>1000,4=<_and_<7,3,female-divorced/separated/married,none,2,building society/savings agreement/life insurance,30,none,own,2,skilled_employee/official,1,no,no,good
+no_checking_account,12,critical_account,car (new),1163,500=<_and_<1000,1=<_and_<4,4,male-single,none,4,real_estate,44,none,own,1,skilled_employee/official,1,yes,no,good
+no_checking_account,24,existing_dues_cleared_for_now,car (new),3757,<100,>7,4,female-divorced/separated/married,co-applicant,4,unknown/no_property,62,none,for_free,1,skilled_employee/official,1,yes,no,good
+no_checking_account,10,existing_dues_cleared_for_now,car (new),1418,100=<_and_<500,1=<_and_<4,3,male-single,none,2,real_estate,35,none,rent,1,unskilled-resident,1,no,yes,good
+no_checking_account,6,existing_dues_cleared_for_now,car (new),3518,<100,1=<_and_<4,2,male-single,guarantor,3,building society/savings agreement/life insurance,26,none,rent,1,skilled_employee/official,1,no,no,good
+no_checking_account,12,critical_account,radio/television,1934,<100,>7,2,male-single,none,2,unknown/no_property,26,none,own,2,skilled_employee/official,1,no,no,good
+0=<_and_<200,27,none_taken/all_dues_cleared,business,8318,<100,>7,2,female-divorced/separated/married,none,4,unknown/no_property,42,none,for_free,2,management/self-employed/highly_qualified/officer,1,yes,no,bad
+no_checking_account,6,critical_account,radio/television,1237,100=<_and_<500,1=<_and_<4,1,female-divorced/separated/married,none,1,building society/savings agreement/life insurance,27,none,own,2,skilled_employee/official,1,no,no,good
+0=<_and_<200,6,existing_dues_cleared_for_now,radio/television,368,unknown_or_no_savings_account,>7,4,male-single,none,4,building society/savings agreement/life insurance,38,none,own,1,skilled_employee/official,1,no,no,good
+<0,12,critical_account,car (new),2122,<100,1=<_and_<4,3,male-single,none,2,real_estate,39,none,rent,2,unskilled-resident,2,no,yes,good
+<0,24,existing_dues_cleared_for_now,furniture/equipment,2996,unknown_or_no_savings_account,1=<_and_<4,2,male-married/widowed,none,4,car or other,20,none,own,1,skilled_employee/official,1,no,no,bad
+0=<_and_<200,36,existing_dues_cleared_for_now,furniture/equipment,9034,100=<_and_<500,<1,4,male-single,co-applicant,1,unknown/no_property,29,none,rent,1,management/self-employed/highly_qualified/officer,1,yes,no,bad
+no_checking_account,24,critical_account,furniture/equipment,1585,<100,4=<_and_<7,4,male-single,none,3,building society/savings agreement/life insurance,40,none,own,2,skilled_employee/official,1,no,no,good
+0=<_and_<200,18,existing_dues_cleared_for_now,radio/television,1301,<100,>7,4,male-married/widowed,guarantor,2,real_estate,32,none,own,1,unskilled-resident,1,no,no,good
+<0,24,existing_dues_cleared_for_now,car (new),3123,<100,<1,4,female-divorced/separated/married,none,1,building society/savings agreement/life insurance,27,none,own,1,skilled_employee/official,1,no,no,bad
+<0,36,existing_dues_cleared_for_now,car (used),5493,<100,>7,2,male-single,none,4,unknown/no_property,42,none,for_free,1,skilled_employee/official,2,no,no,good
+>200,9,existing_dues_cleared_for_now,radio/television,1126,100=<_and_<500,>7,2,male-divorced/separated,none,4,real_estate,49,none,own,1,skilled_employee/official,1,no,no,good
+0=<_and_<200,24,critical_account,radio/television,1216,100=<_and_<500,<1,4,male-single,none,4,unknown/no_property,38,bank,own,2,skilled_employee/official,2,no,no,bad
+<0,24,existing_dues_cleared_for_now,car (new),1207,<100,<1,4,female-divorced/separated/married,none,4,building society/savings agreement/life insurance,24,none,rent,1,skilled_employee/official,1,no,no,bad
+>200,15,critical_account,car (used),2360,500=<_and_<1000,1=<_and_<4,2,male-single,none,2,car or other,36,none,own,1,skilled_employee/official,1,yes,no,good
+no_checking_account,24,existing_dues_cleared_for_now,radio/television,1413,<100,1=<_and_<4,4,male-married/widowed,none,2,building society/savings agreement/life insurance,28,none,own,1,skilled_employee/official,1,no,no,good
+no_checking_account,39,existing_dues_cleared_for_now,car (used),8588,100=<_and_<500,>7,4,male-single,none,2,car or other,45,none,own,1,management/self-employed/highly_qualified/officer,1,yes,no,good
+<0,12,existing_dues_cleared_for_now,car (new),759,<100,4=<_and_<7,4,male-single,none,2,real_estate,26,none,own,1,skilled_employee/official,1,no,no,bad
+no_checking_account,36,existing_dues_cleared_for_now,car (used),4686,<100,1=<_and_<4,2,male-single,none,2,unknown/no_property,32,none,for_free,1,management/self-employed/highly_qualified/officer,1,yes,no,good
+>200,15,existing_dues_cleared_for_now,business,2687,<100,4=<_and_<7,2,male-single,none,4,building society/savings agreement/life insurance,26,none,rent,1,skilled_employee/official,1,yes,no,good
+no_checking_account,24,existing_dues_cleared_for_now,car (new),2255,unknown_or_no_savings_account,<1,4,male-single,none,1,building society/savings agreement/life insurance,54,none,own,1,skilled_employee/official,1,no,no,good
+<0,6,critical_account,car (new),1361,<100,<1,2,male-single,none,4,real_estate,40,none,own,1,unskilled-resident,2,no,yes,good
+no_checking_account,36,critical_account,furniture/equipment,7127,<100,<1,2,female-divorced/separated/married,none,4,building society/savings agreement/life insurance,23,none,rent,2,skilled_employee/official,1,yes,no,bad
+<0,6,existing_dues_cleared_for_now,car (new),1203,100=<_and_<500,>7,3,male-single,none,2,building society/savings agreement/life insurance,43,none,own,1,skilled_employee/official,1,yes,no,good
+no_checking_account,6,critical_account,radio/television,700,unknown_or_no_savings_account,>7,4,male-single,none,4,unknown/no_property,36,none,for_free,2,skilled_employee/official,1,no,no,good
+<0,18,existing_dues_cleared_for_now,radio/television,3190,<100,1=<_and_<4,2,female-divorced/separated/married,none,2,real_estate,24,none,own,1,skilled_employee/official,1,no,no,bad
+<0,48,none_taken/all_dues_cleared,furniture/equipment,7119,<100,1=<_and_<4,3,male-single,none,4,unknown/no_property,53,none,for_free,2,skilled_employee/official,2,no,no,bad
+0=<_and_<200,18,existing_dues_cleared_for_now,radio/television,1113,<100,1=<_and_<4,4,female-divorced/separated/married,guarantor,4,real_estate,26,none,own,1,unskilled-resident,2,no,no,good
+0=<_and_<200,26,existing_dues_cleared_for_now,car (used),7966,<100,<1,2,male-single,none,3,car or other,30,none,own,2,skilled_employee/official,1,no,no,good
+no_checking_account,4,critical_account,radio/television,1503,<100,4=<_and_<7,2,male-single,none,1,real_estate,42,none,own,2,unskilled-resident,2,no,no,good
+<0,36,existing_dues_cleared_for_now,radio/television,2302,<100,1=<_and_<4,4,male-divorced/separated,none,4,car or other,31,none,rent,1,skilled_employee/official,1,no,no,bad
+<0,6,existing_dues_cleared_for_now,car (new),662,<100,<1,3,male-single,none,4,real_estate,41,none,own,1,unskilled-resident,2,yes,no,good
+0=<_and_<200,36,existing_dues_cleared_for_now,education,2273,<100,4=<_and_<7,3,male-single,none,1,car or other,32,none,own,2,skilled_employee/official,2,no,no,good
+0=<_and_<200,15,existing_dues_cleared_for_now,car (new),2631,100=<_and_<500,1=<_and_<4,2,female-divorced/separated/married,none,4,car or other,28,none,rent,2,skilled_employee/official,1,yes,no,bad
+no_checking_account,12,delay_in_paying_off,car (used),1503,<100,1=<_and_<4,4,male-married/widowed,none,4,real_estate,41,none,rent,1,skilled_employee/official,1,no,no,good
+no_checking_account,24,existing_dues_cleared_for_now,radio/television,1311,100=<_and_<500,4=<_and_<7,4,male-married/widowed,none,3,building society/savings agreement/life insurance,26,none,own,1,skilled_employee/official,1,yes,no,good
+no_checking_account,24,existing_dues_cleared_for_now,radio/television,3105,unknown_or_no_savings_account,<1,4,male-single,none,2,car or other,25,none,own,2,skilled_employee/official,1,no,no,good
+>200,21,critical_account,education,2319,<100,<1,2,male-divorced/separated,none,1,car or other,33,none,rent,1,skilled_employee/official,1,no,no,bad
+<0,6,existing_dues_cleared_for_now,car (new),1374,unknown_or_no_savings_account,unemployed,4,female-divorced/separated/married,none,3,building society/savings agreement/life insurance,75,none,own,1,management/self-employed/highly_qualified/officer,1,yes,no,good
+0=<_and_<200,18,critical_account,furniture/equipment,3612,<100,>7,3,female-divorced/separated/married,none,4,building society/savings agreement/life insurance,37,none,own,1,skilled_employee/official,1,yes,no,good
+>200,18,existing_dues_cleared_for_now,furniture/equipment,3049,<100,<1,1,female-divorced/separated/married,none,1,building society/savings agreement/life insurance,45,stores,own,1,unskilled-resident,1,no,no,good
+0=<_and_<200,12,existing_dues_cleared_for_now,radio/television,1534,<100,<1,1,male-married/widowed,none,1,real_estate,23,none,rent,1,skilled_employee/official,1,no,no,bad
+<0,30,existing_dues_cleared_for_now,furniture/equipment,6350,unknown_or_no_savings_account,>7,4,male-single,none,4,building society/savings agreement/life insurance,31,none,own,1,skilled_employee/official,1,no,no,bad
+>200,18,existing_dues_cleared_for_now,furniture/equipment,2864,<100,1=<_and_<4,2,male-single,none,1,real_estate,34,none,own,1,unskilled-resident,2,no,no,bad
+no_checking_account,12,critical_account,car (new),1255,<100,>7,4,male-single,none,4,real_estate,61,none,own,2,unskilled-resident,1,no,no,good
+no_checking_account,24,critical_account,car (new),2022,<100,1=<_and_<4,4,female-divorced/separated/married,none,4,car or other,37,none,own,1,skilled_employee/official,1,yes,no,good
+<0,12,all_dues_atbank_cleared,radio/television,626,<100,1=<_and_<4,4,female-divorced/separated/married,none,4,real_estate,24,bank,own,1,unskilled-resident,1,no,no,bad
+no_checking_account,48,critical_account,car (used),8858,unknown_or_no_savings_account,4=<_and_<7,2,male-single,none,1,unknown/no_property,35,none,for_free,2,skilled_employee/official,1,yes,no,good
+no_checking_account,12,critical_account,repairs,996,unknown_or_no_savings_account,4=<_and_<7,4,female-divorced/separated/married,none,4,real_estate,23,none,own,2,skilled_employee/official,1,no,no,good
+<0,48,existing_dues_cleared_for_now,radio/television,6999,<100,4=<_and_<7,1,male-married/widowed,guarantor,1,real_estate,34,none,own,2,skilled_employee/official,1,yes,no,bad
+0=<_and_<200,12,critical_account,car (new),1995,100=<_and_<500,<1,4,male-single,none,1,car or other,27,none,own,1,skilled_employee/official,1,no,no,good
+0=<_and_<200,9,existing_dues_cleared_for_now,education,1199,<100,4=<_and_<7,4,female-divorced/separated/married,none,4,building society/savings agreement/life insurance,67,none,own,2,management/self-employed/highly_qualified/officer,1,yes,no,good
+0=<_and_<200,12,existing_dues_cleared_for_now,radio/television,1331,<100,<1,2,male-single,none,1,car or other,22,stores,own,1,skilled_employee/official,1,no,no,bad
+no_checking_account,21,none_taken/all_dues_cleared,car (new),5003,unknown_or_no_savings_account,1=<_and_<4,1,female-divorced/separated/married,none,4,building society/savings agreement/life insurance,29,bank,own,2,skilled_employee/official,1,yes,no,bad
+<0,24,all_dues_atbank_cleared,furniture/equipment,3552,<100,4=<_and_<7,3,male-single,none,4,car or other,27,bank,own,1,skilled_employee/official,1,no,no,bad
+<0,24,existing_dues_cleared_for_now,car (used),2964,unknown_or_no_savings_account,>7,4,male-single,none,4,unknown/no_property,49,bank,for_free,1,skilled_employee/official,2,yes,no,good
+<0,24,all_dues_atbank_cleared,radio/television,1546,<100,4=<_and_<7,4,male-single,guarantor,4,car or other,24,bank,rent,1,unskilled-resident,1,no,no,bad
+>200,6,delay_in_paying_off,radio/television,683,<100,<1,2,female-divorced/separated/married,none,1,building society/savings agreement/life insurance,29,bank,own,1,skilled_employee/official,1,no,no,good
+0=<_and_<200,36,existing_dues_cleared_for_now,car (new),12389,unknown_or_no_savings_account,1=<_and_<4,1,male-single,none,4,unknown/no_property,37,none,for_free,1,skilled_employee/official,1,yes,no,bad
+0=<_and_<200,24,delay_in_paying_off,business,4712,unknown_or_no_savings_account,1=<_and_<4,4,male-single,none,2,building society/savings agreement/life insurance,37,bank,own,2,management/self-employed/highly_qualified/officer,1,yes,no,good
+0=<_and_<200,24,delay_in_paying_off,radio/television,1553,100=<_and_<500,4=<_and_<7,3,female-divorced/separated/married,none,2,building society/savings agreement/life insurance,23,none,rent,2,skilled_employee/official,1,yes,no,good
+no_checking_account,24,critical_account,radio/television,2578,>1000,>7,2,male-single,none,2,car or other,34,none,own,1,skilled_employee/official,1,no,no,good
+0=<_and_<200,48,existing_dues_cleared_for_now,radio/television,3979,unknown_or_no_savings_account,4=<_and_<7,4,male-single,none,1,car or other,41,none,own,2,skilled_employee/official,2,yes,no,good
+<0,48,existing_dues_cleared_for_now,radio/television,6758,<100,1=<_and_<4,3,female-divorced/separated/married,none,2,car or other,31,none,own,1,skilled_employee/official,1,yes,no,bad
+<0,24,existing_dues_cleared_for_now,furniture/equipment,3234,<100,<1,4,female-divorced/separated/married,none,4,real_estate,23,none,rent,1,unskilled-resident,1,yes,no,bad
+no_checking_account,30,critical_account,radio/television,5954,<100,4=<_and_<7,3,male-single,co-applicant,2,car or other,38,none,own,1,skilled_employee/official,1,no,no,good
+no_checking_account,24,existing_dues_cleared_for_now,car (used),5433,unknown_or_no_savings_account,unemployed,2,female-divorced/separated/married,none,4,building society/savings agreement/life insurance,26,none,rent,1,management/self-employed/highly_qualified/officer,1,yes,no,good
+<0,15,existing_dues_cleared_for_now,business,806,<100,1=<_and_<4,4,female-divorced/separated/married,none,4,building society/savings agreement/life insurance,22,none,own,1,unskilled-resident,1,no,no,good
+0=<_and_<200,9,existing_dues_cleared_for_now,radio/television,1082,<100,>7,4,male-single,none,4,car or other,27,none,own,2,unskilled-resident,1,no,no,good
+no_checking_account,15,critical_account,furniture/equipment,2788,<100,4=<_and_<7,2,female-divorced/separated/married,co-applicant,3,car or other,24,bank,own,2,skilled_employee/official,1,no,no,good
+0=<_and_<200,12,existing_dues_cleared_for_now,radio/television,2930,<100,4=<_and_<7,2,female-divorced/separated/married,none,1,real_estate,27,none,own,1,skilled_employee/official,1,no,no,good
+no_checking_account,24,critical_account,education,1927,unknown_or_no_savings_account,1=<_and_<4,3,female-divorced/separated/married,none,2,car or other,33,none,own,2,skilled_employee/official,1,yes,no,good
+no_checking_account,24,existing_dues_cleared_for_now,retraining,937,<100,<1,4,male-married/widowed,none,3,car or other,27,none,own,2,unskilled-resident,1,no,no,good
+0=<_and_<200,18,critical_account,car (new),1056,<100,>7,3,male-single,guarantor,3,real_estate,30,bank,own,2,skilled_employee/official,1,no,no,bad
+0=<_and_<200,12,critical_account,car (new),3124,<100,<1,1,male-single,none,3,real_estate,49,bank,own,2,unskilled-resident,2,no,no,good
+no_checking_account,9,existing_dues_cleared_for_now,furniture/equipment,1388,<100,1=<_and_<4,4,female-divorced/separated/married,none,2,real_estate,26,none,rent,1,skilled_employee/official,1,no,no,good
+<0,18,existing_dues_cleared_for_now,furniture/equipment,2039,<100,1=<_and_<4,1,female-divorced/separated/married,none,4,real_estate,20,bank,rent,1,skilled_employee/official,1,no,no,bad
+<0,9,critical_account,car (new),2799,<100,1=<_and_<4,2,male-single,none,2,real_estate,36,none,rent,2,skilled_employee/official,2,no,no,good
+<0,12,existing_dues_cleared_for_now,furniture/equipment,1289,<100,1=<_and_<4,4,male-single,guarantor,1,building society/savings agreement/life insurance,21,none,own,1,unskilled-resident,1,no,no,good
+<0,18,existing_dues_cleared_for_now,domestic appliances,1217,<100,1=<_and_<4,4,male-married/widowed,none,3,real_estate,47,none,own,1,unskilled-resident,1,yes,no,bad
+<0,12,critical_account,furniture/equipment,2246,<100,>7,3,male-single,none,3,building society/savings agreement/life insurance,60,none,own,2,skilled_employee/official,1,no,no,bad
+<0,12,critical_account,radio/television,385,<100,4=<_and_<7,4,female-divorced/separated/married,none,3,real_estate,58,none,own,4,unskilled-resident,1,yes,no,good
+0=<_and_<200,24,delay_in_paying_off,car (new),1965,unknown_or_no_savings_account,1=<_and_<4,4,female-divorced/separated/married,none,4,car or other,42,none,rent,2,skilled_employee/official,1,yes,no,good
+no_checking_account,21,existing_dues_cleared_for_now,business,1572,>1000,>7,4,female-divorced/separated/married,none,4,real_estate,36,bank,own,1,unskilled-resident,1,no,no,good
+0=<_and_<200,24,existing_dues_cleared_for_now,car (new),2718,<100,1=<_and_<4,3,female-divorced/separated/married,none,4,building society/savings agreement/life insurance,20,none,rent,1,unskilled-resident,1,yes,no,bad
+0=<_and_<200,6,all_dues_atbank_cleared,car (new),931,100=<_and_<500,<1,1,female-divorced/separated/married,none,1,building society/savings agreement/life insurance,32,stores,own,1,unskilled-resident,1,no,no,bad
+<0,24,existing_dues_cleared_for_now,car (new),1442,<100,4=<_and_<7,4,female-divorced/separated/married,none,4,car or other,23,none,rent,2,skilled_employee/official,1,no,no,bad
+0=<_and_<200,24,none_taken/all_dues_cleared,business,4241,<100,1=<_and_<4,1,male-single,none,4,real_estate,36,none,own,3,unskilled-resident,1,yes,no,bad
+no_checking_account,18,critical_account,car (new),2775,<100,4=<_and_<7,2,male-single,none,2,building society/savings agreement/life insurance,31,bank,own,2,skilled_employee/official,1,no,no,bad
+no_checking_account,24,delay_in_paying_off,business,3863,<100,1=<_and_<4,1,male-single,none,2,unknown/no_property,32,none,for_free,1,skilled_employee/official,1,no,no,good
+0=<_and_<200,7,existing_dues_cleared_for_now,radio/television,2329,<100,<1,1,female-divorced/separated/married,guarantor,1,real_estate,45,none,own,1,skilled_employee/official,1,no,no,good
+0=<_and_<200,24,all_dues_atbank_cleared,education,1837,<100,4=<_and_<7,4,female-divorced/separated/married,none,4,unknown/no_property,34,bank,for_free,1,unskilled-resident,1,no,no,bad
+no_checking_account,36,existing_dues_cleared_for_now,furniture/equipment,3349,<100,1=<_and_<4,4,female-divorced/separated/married,none,2,car or other,28,none,own,1,management/self-employed/highly_qualified/officer,1,yes,no,bad
+>200,10,existing_dues_cleared_for_now,furniture/equipment,1275,<100,<1,4,female-divorced/separated/married,none,2,building society/savings agreement/life insurance,23,none,own,1,skilled_employee/official,1,no,no,good
+<0,24,all_dues_atbank_cleared,furniture/equipment,2828,500=<_and_<1000,1=<_and_<4,4,male-single,none,4,real_estate,22,stores,own,1,skilled_employee/official,1,yes,no,good
+no_checking_account,24,critical_account,business,4526,<100,1=<_and_<4,3,male-single,none,2,real_estate,74,none,own,1,management/self-employed/highly_qualified/officer,1,yes,no,good
+0=<_and_<200,36,existing_dues_cleared_for_now,radio/television,2671,100=<_and_<500,1=<_and_<4,4,female-divorced/separated/married,co-applicant,4,unknown/no_property,50,none,for_free,1,skilled_employee/official,1,no,no,bad
+no_checking_account,18,existing_dues_cleared_for_now,radio/television,2051,<100,<1,4,male-single,none,1,real_estate,33,none,own,1,skilled_employee/official,1,no,no,good
+no_checking_account,15,existing_dues_cleared_for_now,car (used),1300,unknown_or_no_savings_account,>7,4,male-single,none,4,unknown/no_property,45,bank,for_free,1,skilled_employee/official,2,no,no,good
+<0,12,existing_dues_cleared_for_now,domestic appliances,741,100=<_and_<500,unemployed,4,female-divorced/separated/married,none,3,building society/savings agreement/life insurance,22,none,own,1,skilled_employee/official,1,no,no,bad
+>200,10,existing_dues_cleared_for_now,car (new),1240,100=<_and_<500,>7,1,female-divorced/separated/married,none,4,unknown/no_property,48,none,for_free,1,unskilled-resident,2,no,no,bad
+<0,21,existing_dues_cleared_for_now,radio/television,3357,>1000,<1,4,female-divorced/separated/married,none,2,car or other,29,bank,own,1,skilled_employee/official,1,no,no,good
+<0,24,all_dues_atbank_cleared,car (used),3632,<100,1=<_and_<4,1,female-divorced/separated/married,guarantor,4,car or other,22,bank,rent,1,skilled_employee/official,1,no,yes,good
+no_checking_account,18,delay_in_paying_off,furniture/equipment,1808,<100,4=<_and_<7,4,female-divorced/separated/married,none,1,real_estate,22,none,own,1,skilled_employee/official,1,no,no,bad
+0=<_and_<200,48,none_taken/all_dues_cleared,business,12204,unknown_or_no_savings_account,1=<_and_<4,2,male-single,none,2,car or other,48,bank,own,1,management/self-employed/highly_qualified/officer,1,yes,no,good
+0=<_and_<200,60,delay_in_paying_off,radio/television,9157,unknown_or_no_savings_account,1=<_and_<4,2,male-single,none,2,unknown/no_property,27,none,for_free,1,management/self-employed/highly_qualified/officer,1,no,no,good
+<0,6,critical_account,car (new),3676,<100,1=<_and_<4,1,male-single,none,3,real_estate,37,none,rent,3,skilled_employee/official,2,no,no,good
+0=<_and_<200,30,existing_dues_cleared_for_now,furniture/equipment,3441,100=<_and_<500,1=<_and_<4,2,female-divorced/separated/married,co-applicant,4,car or other,21,none,rent,1,skilled_employee/official,1,no,no,bad
+0=<_and_<200,21,critical_account,business,3652,<100,4=<_and_<7,2,male-single,none,3,building society/savings agreement/life insurance,27,none,own,2,skilled_employee/official,1,no,no,good
+no_checking_account,18,critical_account,car (new),1530,<100,1=<_and_<4,3,male-single,none,2,building society/savings agreement/life insurance,32,bank,own,2,skilled_employee/official,1,no,no,bad
+no_checking_account,48,existing_dues_cleared_for_now,business,3914,unknown_or_no_savings_account,1=<_and_<4,4,male-divorced/separated,none,2,real_estate,38,bank,own,1,skilled_employee/official,1,no,no,bad
+<0,12,existing_dues_cleared_for_now,furniture/equipment,1858,<100,<1,4,female-divorced/separated/married,none,1,car or other,22,none,rent,1,skilled_employee/official,1,no,no,good
+no_checking_account,15,existing_dues_cleared_for_now,radio/television,1979,unknown_or_no_savings_account,>7,4,male-single,none,2,car or other,35,none,own,1,skilled_employee/official,1,no,no,good
+0=<_and_<200,9,all_dues_atbank_cleared,car (new),1437,100=<_and_<500,4=<_and_<7,2,male-single,none,3,unknown/no_property,29,none,own,1,skilled_employee/official,1,no,no,bad
+no_checking_account,9,existing_dues_cleared_for_now,education,3832,unknown_or_no_savings_account,>7,1,male-single,none,4,real_estate,64,none,own,1,unskilled-resident,1,no,no,good
+<0,24,existing_dues_cleared_for_now,radio/television,3660,<100,1=<_and_<4,2,female-divorced/separated/married,none,4,car or other,28,none,own,1,skilled_employee/official,1,no,no,good
+<0,18,all_dues_atbank_cleared,furniture/equipment,1553,<100,1=<_and_<4,4,male-single,none,3,car or other,44,bank,own,1,skilled_employee/official,1,no,no,bad
+no_checking_account,9,existing_dues_cleared_for_now,furniture/equipment,1980,<100,<1,2,female-divorced/separated/married,co-applicant,2,car or other,19,none,rent,2,skilled_employee/official,1,no,no,bad
+0=<_and_<200,24,existing_dues_cleared_for_now,car (new),1355,<100,<1,3,female-divorced/separated/married,none,4,car or other,25,none,own,1,unskilled-resident,1,yes,no,bad
+no_checking_account,24,existing_dues_cleared_for_now,radio/television,1376,500=<_and_<1000,4=<_and_<7,4,female-divorced/separated/married,none,1,car or other,28,none,own,1,skilled_employee/official,1,no,no,good
+no_checking_account,60,delay_in_paying_off,radio/television,15653,<100,4=<_and_<7,2,male-single,none,4,car or other,21,none,own,2,skilled_employee/official,1,yes,no,good
+no_checking_account,12,existing_dues_cleared_for_now,radio/television,1493,<100,<1,4,female-divorced/separated/married,none,3,car or other,34,none,own,1,skilled_employee/official,2,no,no,good
+<0,18,existing_dues_cleared_for_now,education,750,<100,unemployed,4,female-divorced/separated/married,none,1,real_estate,27,none,own,1,unemployed/unskilled-non_resident,1,no,no,bad
+0=<_and_<200,15,existing_dues_cleared_for_now,repairs,1308,<100,>7,4,male-single,none,4,car or other,38,none,own,2,unskilled-resident,1,no,no,good
+no_checking_account,15,existing_dues_cleared_for_now,education,4623,100=<_and_<500,1=<_and_<4,3,male-single,none,2,building society/savings agreement/life insurance,40,none,own,1,management/self-employed/highly_qualified/officer,1,yes,no,bad
+no_checking_account,24,critical_account,radio/television,1851,<100,4=<_and_<7,4,male-married/widowed,guarantor,2,car or other,33,none,own,2,skilled_employee/official,1,yes,no,good
+<0,18,critical_account,radio/television,1880,<100,4=<_and_<7,4,male-married/widowed,none,1,building society/savings agreement/life insurance,32,none,own,2,management/self-employed/highly_qualified/officer,1,yes,no,good
+no_checking_account,36,delay_in_paying_off,business,7980,unknown_or_no_savings_account,<1,4,male-single,none,4,car or other,27,none,rent,2,skilled_employee/official,1,yes,no,bad
+<0,30,none_taken/all_dues_cleared,furniture/equipment,4583,<100,1=<_and_<4,2,male-divorced/separated,guarantor,2,real_estate,32,none,own,2,skilled_employee/official,1,no,no,good
+no_checking_account,12,existing_dues_cleared_for_now,car (new),1386,500=<_and_<1000,1=<_and_<4,2,female-divorced/separated/married,none,2,building society/savings agreement/life insurance,26,none,own,1,skilled_employee/official,1,no,no,bad
+>200,24,existing_dues_cleared_for_now,car (new),947,<100,4=<_and_<7,4,male-single,none,3,unknown/no_property,38,bank,for_free,1,skilled_employee/official,2,no,no,bad
+<0,12,existing_dues_cleared_for_now,education,684,<100,1=<_and_<4,4,male-single,none,4,car or other,40,none,rent,1,unskilled-resident,2,no,no,bad
+<0,48,existing_dues_cleared_for_now,education,7476,<100,4=<_and_<7,4,male-single,none,1,unknown/no_property,50,none,for_free,1,management/self-employed/highly_qualified/officer,1,yes,no,good
+0=<_and_<200,12,existing_dues_cleared_for_now,furniture/equipment,1922,<100,1=<_and_<4,4,male-single,none,2,building society/savings agreement/life insurance,37,none,own,1,unskilled-resident,1,no,no,bad
+<0,24,existing_dues_cleared_for_now,car (new),2303,<100,>7,4,male-single,co-applicant,1,real_estate,45,none,own,1,skilled_employee/official,1,no,no,bad
+<0,14,existing_dues_cleared_for_now,car (new),3973,<100,unemployed,1,male-single,none,4,unknown/no_property,22,none,for_free,1,skilled_employee/official,1,no,no,good
+0=<_and_<200,12,existing_dues_cleared_for_now,car (new),888,<100,>7,4,male-single,none,4,car or other,41,bank,own,1,unskilled-resident,2,no,no,bad
+0=<_and_<200,30,none_taken/all_dues_cleared,business,4221,<100,1=<_and_<4,2,female-divorced/separated/married,none,1,car or other,28,none,own,2,skilled_employee/official,1,no,no,good
+>200,12,existing_dues_cleared_for_now,radio/television,1297,<100,1=<_and_<4,3,male-married/widowed,none,4,real_estate,23,none,rent,1,skilled_employee/official,1,no,no,good
+<0,12,existing_dues_cleared_for_now,car (new),900,unknown_or_no_savings_account,1=<_and_<4,4,male-married/widowed,none,2,car or other,23,none,own,1,skilled_employee/official,1,no,no,bad
+no_checking_account,21,existing_dues_cleared_for_now,furniture/equipment,2241,<100,>7,4,male-single,none,2,real_estate,50,none,own,2,skilled_employee/official,1,no,no,good
+0=<_and_<200,6,delay_in_paying_off,furniture/equipment,1050,<100,unemployed,4,male-single,none,1,building society/savings agreement/life insurance,35,stores,own,2,management/self-employed/highly_qualified/officer,1,yes,no,good
+>200,6,critical_account,education,1047,<100,1=<_and_<4,2,female-divorced/separated/married,none,4,building society/savings agreement/life insurance,50,none,own,1,unskilled-resident,1,no,no,good
+no_checking_account,24,critical_account,others,6314,<100,unemployed,4,male-single,co-applicant,2,unknown/no_property,27,bank,own,2,management/self-employed/highly_qualified/officer,1,yes,no,good
+<0,12,critical_account,car (new),4843,<100,>7,3,male-single,co-applicant,4,building society/savings agreement/life insurance,43,none,rent,2,skilled_employee/official,1,yes,no,bad
+>200,30,critical_account,radio/television,3017,<100,>7,4,male-single,none,4,building society/savings agreement/life insurance,47,none,own,1,skilled_employee/official,1,no,no,good
+no_checking_account,24,critical_account,business,4139,100=<_and_<500,1=<_and_<4,3,male-single,none,3,building society/savings agreement/life insurance,27,none,own,2,unskilled-resident,1,yes,no,good
+no_checking_account,36,existing_dues_cleared_for_now,business,5742,100=<_and_<500,4=<_and_<7,2,male-single,none,2,car or other,31,none,own,2,skilled_employee/official,1,yes,no,good
+no_checking_account,60,existing_dues_cleared_for_now,car (new),10366,<100,>7,2,male-single,none,4,building society/savings agreement/life insurance,42,none,own,1,management/self-employed/highly_qualified/officer,1,yes,no,good
+no_checking_account,6,critical_account,car (new),2080,500=<_and_<1000,1=<_and_<4,1,male-married/widowed,none,2,car or other,24,none,own,1,skilled_employee/official,1,no,no,good
+no_checking_account,21,delay_in_paying_off,business,2580,500=<_and_<1000,<1,4,male-single,none,2,real_estate,41,bank,own,1,unskilled-resident,2,no,no,bad
+no_checking_account,30,critical_account,radio/television,4530,<100,4=<_and_<7,4,female-divorced/separated/married,none,4,car or other,26,none,rent,1,management/self-employed/highly_qualified/officer,1,yes,no,good
+no_checking_account,24,critical_account,furniture/equipment,5150,<100,>7,4,male-single,none,4,car or other,33,none,own,1,skilled_employee/official,1,yes,no,good
+0=<_and_<200,72,existing_dues_cleared_for_now,radio/television,5595,100=<_and_<500,1=<_and_<4,2,male-married/widowed,none,2,car or other,24,none,own,1,skilled_employee/official,1,no,no,bad
+<0,24,existing_dues_cleared_for_now,radio/television,2384,<100,>7,4,male-single,none,4,real_estate,64,bank,rent,1,unskilled-resident,1,no,no,good
+no_checking_account,18,existing_dues_cleared_for_now,radio/television,1453,<100,<1,3,female-divorced/separated/married,none,1,real_estate,26,none,own,1,skilled_employee/official,1,no,no,good
+no_checking_account,6,existing_dues_cleared_for_now,education,1538,<100,<1,1,female-divorced/separated/married,none,2,unknown/no_property,56,none,own,1,skilled_employee/official,1,no,no,good
+no_checking_account,12,existing_dues_cleared_for_now,radio/television,2279,unknown_or_no_savings_account,1=<_and_<4,4,male-single,none,4,unknown/no_property,37,none,for_free,1,skilled_employee/official,1,yes,no,good
+no_checking_account,15,delay_in_paying_off,radio/television,1478,<100,1=<_and_<4,4,male-married/widowed,none,3,real_estate,33,bank,own,2,skilled_employee/official,1,no,no,good
+no_checking_account,24,critical_account,radio/television,5103,<100,<1,3,male-married/widowed,none,3,unknown/no_property,47,none,for_free,3,skilled_employee/official,1,yes,no,good
+0=<_and_<200,36,delay_in_paying_off,business,9857,100=<_and_<500,4=<_and_<7,1,male-single,none,3,building society/savings agreement/life insurance,31,none,own,2,unskilled-resident,2,yes,no,good
+no_checking_account,60,existing_dues_cleared_for_now,car (new),6527,unknown_or_no_savings_account,1=<_and_<4,4,male-single,none,4,unknown/no_property,34,none,for_free,1,skilled_employee/official,2,yes,no,good
+>200,10,critical_account,radio/television,1347,unknown_or_no_savings_account,4=<_and_<7,4,male-single,none,2,building society/savings agreement/life insurance,27,none,own,2,skilled_employee/official,1,yes,no,good
+<0,12,existing_dues_cleared_for_now,car (new),3651,>1000,1=<_and_<4,1,male-single,none,3,building society/savings agreement/life insurance,31,none,own,1,skilled_employee/official,2,no,no,good
+<0,15,critical_account,furniture/equipment,975,<100,1=<_and_<4,2,male-divorced/separated,none,3,building society/savings agreement/life insurance,25,none,own,2,skilled_employee/official,1,no,no,good
+0=<_and_<200,15,existing_dues_cleared_for_now,repairs,2631,100=<_and_<500,1=<_and_<4,3,female-divorced/separated/married,none,2,real_estate,25,none,own,1,unskilled-resident,1,no,no,good
+0=<_and_<200,24,existing_dues_cleared_for_now,radio/television,2896,100=<_and_<500,<1,2,male-single,none,1,car or other,29,none,own,1,skilled_employee/official,1,no,no,good
+<0,6,critical_account,car (new),4716,unknown_or_no_savings_account,<1,1,male-single,none,3,real_estate,44,none,own,2,unskilled-resident,2,no,no,good
+no_checking_account,24,existing_dues_cleared_for_now,radio/television,2284,<100,4=<_and_<7,4,male-single,none,2,car or other,28,none,own,1,skilled_employee/official,1,yes,no,good
+no_checking_account,6,existing_dues_cleared_for_now,car (used),1236,500=<_and_<1000,1=<_and_<4,2,male-single,none,4,building society/savings agreement/life insurance,50,none,rent,1,skilled_employee/official,1,no,no,good
+0=<_and_<200,12,existing_dues_cleared_for_now,radio/television,1103,<100,4=<_and_<7,4,male-single,guarantor,3,real_estate,29,none,own,2,skilled_employee/official,1,no,yes,good
+no_checking_account,12,critical_account,car (new),926,<100,unemployed,1,female-divorced/separated/married,none,2,building society/savings agreement/life insurance,38,none,own,1,unemployed/unskilled-non_resident,1,no,no,good
+no_checking_account,18,critical_account,radio/television,1800,<100,1=<_and_<4,4,male-single,none,2,car or other,24,none,own,2,skilled_employee/official,1,no,no,good
+>200,15,existing_dues_cleared_for_now,education,1905,<100,>7,4,male-single,none,4,car or other,40,none,rent,1,management/self-employed/highly_qualified/officer,1,yes,no,good
+no_checking_account,12,existing_dues_cleared_for_now,furniture/equipment,1123,500=<_and_<1000,1=<_and_<4,4,female-divorced/separated/married,none,4,car or other,29,none,rent,1,unskilled-resident,1,no,no,bad
+<0,48,critical_account,car (used),6331,<100,>7,4,male-single,none,4,unknown/no_property,46,none,for_free,2,skilled_employee/official,1,yes,no,bad
+>200,24,existing_dues_cleared_for_now,radio/television,1377,100=<_and_<500,>7,4,female-divorced/separated/married,none,2,unknown/no_property,47,none,for_free,1,skilled_employee/official,1,yes,no,good
+0=<_and_<200,30,delay_in_paying_off,business,2503,100=<_and_<500,>7,4,male-single,none,2,building society/savings agreement/life insurance,41,stores,own,2,skilled_employee/official,1,no,no,good
+0=<_and_<200,27,existing_dues_cleared_for_now,business,2528,<100,<1,4,female-divorced/separated/married,none,1,building society/savings agreement/life insurance,32,none,own,1,skilled_employee/official,2,yes,no,good
+no_checking_account,15,existing_dues_cleared_for_now,car (new),5324,500=<_and_<1000,>7,1,female-divorced/separated/married,none,4,unknown/no_property,35,none,for_free,1,skilled_employee/official,1,no,no,good
+0=<_and_<200,12,none_taken/all_dues_cleared,furniture/equipment,2969,<100,<1,4,female-divorced/separated/married,none,3,building society/savings agreement/life insurance,25,none,rent,2,skilled_employee/official,1,no,no,bad
+0=<_and_<200,9,existing_dues_cleared_for_now,radio/television,1206,<100,>7,4,female-divorced/separated/married,none,4,real_estate,25,none,own,1,skilled_employee/official,1,no,no,good
+0=<_and_<200,9,existing_dues_cleared_for_now,radio/television,2118,<100,1=<_and_<4,2,male-single,none,2,real_estate,37,none,own,1,unskilled-resident,2,no,no,good
+no_checking_account,18,critical_account,radio/television,629,500=<_and_<1000,>7,4,male-single,none,3,building society/savings agreement/life insurance,32,bank,own,2,management/self-employed/highly_qualified/officer,1,yes,no,good
+<0,6,all_dues_atbank_cleared,education,1198,<100,>7,4,female-divorced/separated/married,none,4,unknown/no_property,35,none,for_free,1,skilled_employee/official,1,no,no,bad
+no_checking_account,21,existing_dues_cleared_for_now,car (used),2476,unknown_or_no_savings_account,>7,4,male-single,none,4,real_estate,46,none,own,1,management/self-employed/highly_qualified/officer,1,yes,no,good
+0=<_and_<200,60,existing_dues_cleared_for_now,car (new),14027,<100,4=<_and_<7,4,male-single,none,2,unknown/no_property,27,none,own,1,management/self-employed/highly_qualified/officer,1,yes,no,bad
+no_checking_account,30,critical_account,car (used),7596,unknown_or_no_savings_account,>7,1,male-single,none,4,car or other,63,none,own,2,skilled_employee/official,1,no,no,good
+no_checking_account,18,existing_dues_cleared_for_now,radio/television,1505,<100,1=<_and_<4,4,male-single,none,2,unknown/no_property,32,none,for_free,1,management/self-employed/highly_qualified/officer,1,yes,no,good
+>200,24,critical_account,radio/television,3148,unknown_or_no_savings_account,1=<_and_<4,3,male-single,none,2,car or other,31,none,own,2,skilled_employee/official,1,yes,no,good
+0=<_and_<200,20,none_taken/all_dues_cleared,car (used),6148,100=<_and_<500,>7,3,male-married/widowed,none,4,car or other,31,bank,own,2,skilled_employee/official,1,yes,no,good
+>200,9,none_taken/all_dues_cleared,radio/television,1337,<100,<1,4,male-single,none,2,car or other,34,none,own,2,management/self-employed/highly_qualified/officer,1,yes,no,bad
+0=<_and_<200,6,all_dues_atbank_cleared,education,433,>1000,<1,4,female-divorced/separated/married,none,2,building society/savings agreement/life insurance,24,bank,rent,1,skilled_employee/official,2,no,no,bad
+0=<_and_<200,9,existing_dues_cleared_for_now,radio/television,790,500=<_and_<1000,1=<_and_<4,4,female-divorced/separated/married,none,3,real_estate,66,none,own,1,unskilled-resident,1,no,no,good
+no_checking_account,27,existing_dues_cleared_for_now,car (new),2570,<100,1=<_and_<4,3,female-divorced/separated/married,none,3,real_estate,21,none,rent,1,skilled_employee/official,1,no,no,bad
+no_checking_account,6,critical_account,car (new),250,>1000,1=<_and_<4,2,female-divorced/separated/married,none,2,real_estate,41,bank,own,2,unskilled-resident,1,no,no,good
+<0,18,existing_dues_cleared_for_now,radio/television,1882,<100,1=<_and_<4,4,female-divorced/separated/married,none,4,car or other,25,bank,rent,2,skilled_employee/official,1,no,no,bad
+0=<_and_<200,48,all_dues_atbank_cleared,business,6416,<100,>7,4,female-divorced/separated/married,none,3,unknown/no_property,59,none,rent,1,skilled_employee/official,1,no,no,bad
+>200,24,critical_account,business,1275,>1000,1=<_and_<4,2,male-divorced/separated,none,4,real_estate,36,none,own,2,skilled_employee/official,1,yes,no,good
+0=<_and_<200,24,delay_in_paying_off,radio/television,6403,<100,<1,1,male-single,none,2,car or other,33,none,own,1,skilled_employee/official,1,no,no,good
+<0,24,existing_dues_cleared_for_now,radio/television,1987,<100,1=<_and_<4,2,male-single,none,4,real_estate,21,none,rent,1,unskilled-resident,2,no,no,bad
+0=<_and_<200,8,existing_dues_cleared_for_now,radio/television,760,<100,4=<_and_<7,4,female-divorced/separated/married,guarantor,2,real_estate,44,none,own,1,unskilled-resident,1,no,no,good
+no_checking_account,24,existing_dues_cleared_for_now,car (used),2603,>1000,1=<_and_<4,2,female-divorced/separated/married,none,4,car or other,28,none,rent,1,skilled_employee/official,1,yes,no,good
+no_checking_account,4,critical_account,car (new),3380,<100,4=<_and_<7,1,female-divorced/separated/married,none,1,real_estate,37,none,own,1,skilled_employee/official,2,no,no,good
+0=<_and_<200,24,existing_dues_cleared_for_now,car (used),11560,<100,1=<_and_<4,1,female-divorced/separated/married,none,4,car or other,23,none,rent,2,management/self-employed/highly_qualified/officer,1,no,no,bad
+<0,18,existing_dues_cleared_for_now,car (new),4380,100=<_and_<500,1=<_and_<4,3,male-single,none,4,car or other,35,none,own,1,unskilled-resident,2,yes,no,good
+no_checking_account,6,critical_account,car (new),6761,<100,4=<_and_<7,1,male-single,none,3,unknown/no_property,45,none,own,2,management/self-employed/highly_qualified/officer,2,yes,no,good
+0=<_and_<200,30,none_taken/all_dues_cleared,business,4280,100=<_and_<500,1=<_and_<4,4,female-divorced/separated/married,none,4,car or other,26,none,rent,2,unskilled-resident,1,no,no,bad
+<0,24,all_dues_atbank_cleared,car (new),2325,100=<_and_<500,4=<_and_<7,2,male-single,none,3,car or other,32,bank,own,1,skilled_employee/official,1,no,no,good
+0=<_and_<200,10,all_dues_atbank_cleared,radio/television,1048,<100,1=<_and_<4,4,male-single,none,4,real_estate,23,stores,own,1,unskilled-resident,1,no,no,good
+no_checking_account,21,existing_dues_cleared_for_now,radio/television,3160,unknown_or_no_savings_account,>7,4,male-single,none,3,building society/savings agreement/life insurance,41,none,own,1,skilled_employee/official,1,yes,no,good
+<0,24,all_dues_atbank_cleared,furniture/equipment,2483,500=<_and_<1000,1=<_and_<4,4,male-single,none,4,real_estate,22,stores,own,1,skilled_employee/official,1,yes,no,good
+<0,13,critical_account,business,1797,<100,<1,3,male-single,none,1,building society/savings agreement/life insurance,28,bank,own,2,unskilled-resident,1,no,no,good
+<0,15,existing_dues_cleared_for_now,car (new),2511,<100,unemployed,1,female-divorced/separated/married,none,4,car or other,23,none,rent,1,skilled_employee/official,1,no,no,good
+<0,12,existing_dues_cleared_for_now,car (new),1274,<100,<1,3,female-divorced/separated/married,none,1,real_estate,37,none,own,1,unskilled-resident,1,no,no,bad
+no_checking_account,21,existing_dues_cleared_for_now,car (used),5248,unknown_or_no_savings_account,1=<_and_<4,1,male-single,none,3,car or other,26,none,own,1,skilled_employee/official,1,no,no,good
+no_checking_account,15,existing_dues_cleared_for_now,car (used),3029,<100,4=<_and_<7,2,male-single,none,2,car or other,33,none,own,1,skilled_employee/official,1,no,no,good
+<0,6,existing_dues_cleared_for_now,furniture/equipment,428,<100,>7,2,female-divorced/separated/married,none,1,building society/savings agreement/life insurance,49,bank,own,1,skilled_employee/official,1,yes,no,good
+<0,18,existing_dues_cleared_for_now,car (new),976,<100,<1,1,female-divorced/separated/married,none,2,car or other,23,none,own,1,unskilled-resident,1,no,no,bad
+0=<_and_<200,12,existing_dues_cleared_for_now,business,841,100=<_and_<500,4=<_and_<7,2,female-divorced/separated/married,none,4,real_estate,23,none,rent,1,unskilled-resident,1,no,no,good
+no_checking_account,30,critical_account,radio/television,5771,<100,4=<_and_<7,4,female-divorced/separated/married,none,2,car or other,25,none,own,2,skilled_employee/official,1,no,no,good
+<0,24,existing_dues_cleared_for_now,car (new),1285,unknown_or_no_savings_account,4=<_and_<7,4,female-divorced/separated/married,none,4,unknown/no_property,32,none,rent,1,skilled_employee/official,1,no,no,bad
+>200,6,critical_account,car (new),1299,<100,1=<_and_<4,1,male-single,none,1,real_estate,74,none,own,3,unemployed/unskilled-non_resident,2,no,yes,good
+>200,15,critical_account,radio/television,1271,unknown_or_no_savings_account,1=<_and_<4,3,male-single,none,4,unknown/no_property,39,none,for_free,2,skilled_employee/official,1,yes,no,bad
+no_checking_account,24,existing_dues_cleared_for_now,car (new),1393,<100,1=<_and_<4,2,male-single,guarantor,2,real_estate,31,none,own,1,skilled_employee/official,1,yes,no,good
+<0,12,critical_account,car (new),691,<100,>7,4,male-single,none,3,building society/savings agreement/life insurance,35,none,own,2,skilled_employee/official,1,no,no,bad
+no_checking_account,15,critical_account,car (new),5045,unknown_or_no_savings_account,>7,1,female-divorced/separated/married,none,4,car or other,59,none,own,1,skilled_employee/official,1,yes,no,good
+<0,18,critical_account,furniture/equipment,2124,<100,1=<_and_<4,4,female-divorced/separated/married,none,4,real_estate,24,none,rent,2,skilled_employee/official,1,no,no,bad
+<0,12,existing_dues_cleared_for_now,radio/television,2214,<100,1=<_and_<4,4,male-single,none,3,building society/savings agreement/life insurance,24,none,own,1,unskilled-resident,1,no,no,good
+no_checking_account,21,critical_account,car (new),12680,unknown_or_no_savings_account,>7,4,male-single,none,4,unknown/no_property,30,none,for_free,1,management/self-employed/highly_qualified/officer,1,yes,no,bad
+no_checking_account,24,critical_account,car (new),2463,100=<_and_<500,4=<_and_<7,4,male-married/widowed,none,3,building society/savings agreement/life insurance,27,none,own,2,skilled_employee/official,1,yes,no,good
+0=<_and_<200,12,existing_dues_cleared_for_now,radio/television,1155,<100,>7,3,male-married/widowed,guarantor,3,real_estate,40,bank,own,2,unskilled-resident,1,no,no,good
+no_checking_account,10,existing_dues_cleared_for_now,car (used),2901,unknown_or_no_savings_account,<1,1,female-divorced/separated/married,none,4,real_estate,31,none,rent,1,skilled_employee/official,1,no,no,good
+no_checking_account,12,critical_account,radio/television,1655,<100,>7,2,male-single,none,4,real_estate,63,none,own,2,unskilled-resident,1,yes,no,good
+<0,24,existing_dues_cleared_for_now,car (used),2812,unknown_or_no_savings_account,>7,2,female-divorced/separated/married,none,4,real_estate,26,none,rent,1,skilled_employee/official,1,no,no,good
+<0,36,critical_account,education,8065,<100,1=<_and_<4,3,female-divorced/separated/married,none,2,unknown/no_property,25,none,own,2,management/self-employed/highly_qualified/officer,1,yes,no,bad
+no_checking_account,21,critical_account,car (used),3275,<100,>7,1,male-single,none,4,car or other,36,none,own,1,management/self-employed/highly_qualified/officer,1,yes,no,good
+no_checking_account,24,critical_account,radio/television,2223,100=<_and_<500,>7,4,male-single,none,4,building society/savings agreement/life insurance,52,bank,own,2,skilled_employee/official,1,no,no,good
+>200,12,critical_account,car (new),1480,500=<_and_<1000,unemployed,2,male-single,none,4,unknown/no_property,66,bank,for_free,3,unemployed/unskilled-non_resident,1,no,no,good
+<0,24,existing_dues_cleared_for_now,car (new),1371,unknown_or_no_savings_account,1=<_and_<4,4,female-divorced/separated/married,none,4,real_estate,25,none,rent,1,skilled_employee/official,1,no,no,bad
+no_checking_account,36,critical_account,car (new),3535,<100,4=<_and_<7,4,male-single,none,4,car or other,37,none,own,2,skilled_employee/official,1,yes,no,good
+<0,18,existing_dues_cleared_for_now,radio/television,3509,<100,4=<_and_<7,4,female-divorced/separated/married,guarantor,1,real_estate,25,none,own,1,skilled_employee/official,1,no,no,good
+no_checking_account,36,critical_account,car (used),5711,>1000,>7,4,male-single,none,2,car or other,38,none,own,2,management/self-employed/highly_qualified/officer,1,yes,no,good
+0=<_and_<200,18,existing_dues_cleared_for_now,repairs,3872,<100,unemployed,2,female-divorced/separated/married,none,4,car or other,67,none,own,1,skilled_employee/official,1,yes,no,good
+no_checking_account,24,critical_account,car (new),1940,>1000,>7,4,male-single,none,4,real_estate,60,none,own,1,skilled_employee/official,1,yes,no,good
+0=<_and_<200,12,none_taken/all_dues_cleared,retraining,1410,<100,1=<_and_<4,2,male-single,none,2,real_estate,31,none,own,1,unskilled-resident,1,yes,no,good
+0=<_and_<200,20,existing_dues_cleared_for_now,car (used),6468,unknown_or_no_savings_account,unemployed,1,male-divorced/separated,none,4,real_estate,60,none,own,1,management/self-employed/highly_qualified/officer,1,yes,no,good
+0=<_and_<200,18,existing_dues_cleared_for_now,business,1941,>1000,1=<_and_<4,4,male-single,none,2,building society/savings agreement/life insurance,35,none,own,1,unskilled-resident,1,yes,no,good
+no_checking_account,22,existing_dues_cleared_for_now,radio/television,2675,500=<_and_<1000,>7,3,male-single,none,4,car or other,40,none,own,1,skilled_employee/official,1,no,no,good
+no_checking_account,48,critical_account,car (used),2751,unknown_or_no_savings_account,>7,4,male-single,none,3,car or other,38,none,own,2,skilled_employee/official,2,yes,no,good
+0=<_and_<200,48,delay_in_paying_off,education,6224,<100,>7,4,male-single,none,4,unknown/no_property,50,none,for_free,1,skilled_employee/official,1,no,no,bad
+<0,40,critical_account,education,5998,<100,1=<_and_<4,4,male-single,none,3,unknown/no_property,27,bank,own,1,skilled_employee/official,1,yes,no,bad
+0=<_and_<200,21,existing_dues_cleared_for_now,business,1188,<100,>7,2,female-divorced/separated/married,none,4,building society/savings agreement/life insurance,39,none,own,1,skilled_employee/official,2,no,no,bad
+no_checking_account,24,existing_dues_cleared_for_now,car (used),6313,unknown_or_no_savings_account,>7,3,male-single,none,4,car or other,41,none,own,1,management/self-employed/highly_qualified/officer,2,yes,no,good
+no_checking_account,6,critical_account,furniture/equipment,1221,unknown_or_no_savings_account,1=<_and_<4,1,male-married/widowed,none,2,building society/savings agreement/life insurance,27,none,own,2,skilled_employee/official,1,no,no,good
+>200,24,existing_dues_cleared_for_now,furniture/equipment,2892,<100,>7,3,male-divorced/separated,none,4,unknown/no_property,51,none,for_free,1,skilled_employee/official,1,no,no,good
+no_checking_account,24,existing_dues_cleared_for_now,furniture/equipment,3062,500=<_and_<1000,>7,4,male-single,none,3,unknown/no_property,32,none,rent,1,skilled_employee/official,1,yes,no,good
+no_checking_account,9,existing_dues_cleared_for_now,furniture/equipment,2301,100=<_and_<500,<1,2,female-divorced/separated/married,none,4,building society/savings agreement/life insurance,22,none,rent,1,skilled_employee/official,1,no,no,good
+<0,18,existing_dues_cleared_for_now,car (used),7511,unknown_or_no_savings_account,>7,1,male-single,none,4,building society/savings agreement/life insurance,51,none,for_free,1,skilled_employee/official,2,yes,no,bad
+no_checking_account,12,critical_account,furniture/equipment,1258,<100,<1,2,female-divorced/separated/married,none,4,building society/savings agreement/life insurance,22,none,rent,2,unskilled-resident,1,no,no,good
+no_checking_account,24,delay_in_paying_off,car (new),717,unknown_or_no_savings_account,>7,4,male-married/widowed,none,4,car or other,54,none,own,2,skilled_employee/official,1,yes,no,good
+0=<_and_<200,9,existing_dues_cleared_for_now,car (new),1549,unknown_or_no_savings_account,<1,4,male-single,none,2,real_estate,35,none,own,1,unemployed/unskilled-non_resident,1,no,no,good
+no_checking_account,24,critical_account,education,1597,<100,>7,4,male-single,none,4,unknown/no_property,54,none,for_free,2,skilled_employee/official,2,no,no,good
+<0,20,critical_account,furniture/equipment,4272,<100,>7,1,female-divorced/separated/married,none,4,building society/savings agreement/life insurance,24,none,own,2,skilled_employee/official,1,no,no,good
+no_checking_account,12,critical_account,radio/television,976,unknown_or_no_savings_account,>7,4,male-single,none,4,car or other,35,none,own,2,skilled_employee/official,1,no,no,good
+0=<_and_<200,12,existing_dues_cleared_for_now,car (new),7472,unknown_or_no_savings_account,unemployed,1,female-divorced/separated/married,none,2,real_estate,24,none,rent,1,unemployed/unskilled-non_resident,1,no,no,good
+<0,36,existing_dues_cleared_for_now,car (new),9271,<100,4=<_and_<7,2,male-single,none,1,car or other,24,none,own,1,skilled_employee/official,1,yes,no,bad
+no_checking_account,12,critical_account,radio/television,930,unknown_or_no_savings_account,>7,4,male-single,none,4,real_estate,65,none,own,4,skilled_employee/official,1,no,no,good
+0=<_and_<200,42,all_dues_atbank_cleared,car (used),9283,<100,unemployed,1,male-single,none,2,unknown/no_property,55,bank,for_free,1,management/self-employed/highly_qualified/officer,1,yes,no,good
+0=<_and_<200,15,none_taken/all_dues_cleared,car (new),1778,<100,<1,2,female-divorced/separated/married,none,1,real_estate,26,none,rent,2,unemployed/unskilled-non_resident,1,no,no,bad
+0=<_and_<200,8,existing_dues_cleared_for_now,business,907,<100,<1,3,male-married/widowed,none,2,real_estate,26,none,own,1,skilled_employee/official,1,yes,no,good
+0=<_and_<200,6,existing_dues_cleared_for_now,radio/television,484,<100,4=<_and_<7,3,male-married/widowed,guarantor,3,real_estate,28,bank,own,1,unskilled-resident,1,no,no,good
+<0,36,critical_account,car (used),9629,<100,4=<_and_<7,4,male-single,none,4,car or other,24,none,own,2,skilled_employee/official,1,yes,no,bad
+<0,48,existing_dues_cleared_for_now,domestic appliances,3051,<100,1=<_and_<4,3,male-single,none,4,car or other,54,none,own,1,skilled_employee/official,1,no,no,bad
+<0,48,existing_dues_cleared_for_now,car (new),3931,<100,4=<_and_<7,4,male-single,none,4,unknown/no_property,46,none,for_free,1,skilled_employee/official,2,no,no,bad
+0=<_and_<200,36,delay_in_paying_off,car (new),7432,<100,1=<_and_<4,2,female-divorced/separated/married,none,2,building society/savings agreement/life insurance,54,none,rent,1,skilled_employee/official,1,no,no,good
+no_checking_account,6,critical_account,radio/television,1554,<100,4=<_and_<7,1,female-divorced/separated/married,none,2,car or other,24,none,rent,2,skilled_employee/official,1,yes,no,good
+<0,36,existing_dues_cleared_for_now,others,15857,<100,unemployed,2,male-divorced/separated,co-applicant,3,car or other,43,none,own,1,management/self-employed/highly_qualified/officer,1,no,no,good
+<0,18,existing_dues_cleared_for_now,radio/television,1345,<100,1=<_and_<4,4,male-married/widowed,none,3,real_estate,26,bank,own,1,skilled_employee/official,1,no,no,bad
+no_checking_account,12,existing_dues_cleared_for_now,car (new),1101,<100,1=<_and_<4,3,male-married/widowed,none,2,real_estate,27,none,own,2,skilled_employee/official,1,yes,no,good
+>200,12,existing_dues_cleared_for_now,radio/television,3016,<100,1=<_and_<4,3,male-married/widowed,none,1,car or other,24,none,own,1,skilled_employee/official,1,no,no,good
+<0,36,existing_dues_cleared_for_now,furniture/equipment,2712,<100,>7,2,male-single,none,2,building society/savings agreement/life insurance,41,bank,own,1,skilled_employee/official,2,no,no,bad
+<0,8,critical_account,car (new),731,<100,>7,4,male-single,none,4,real_estate,47,none,own,2,unskilled-resident,1,no,no,good
+no_checking_account,18,critical_account,furniture/equipment,3780,<100,<1,3,male-divorced/separated,none,2,car or other,35,none,own,2,management/self-employed/highly_qualified/officer,1,yes,no,good
+<0,21,critical_account,car (new),1602,<100,>7,4,male-married/widowed,none,3,car or other,30,none,own,2,skilled_employee/official,1,yes,no,good
+<0,18,critical_account,car (new),3966,<100,>7,1,female-divorced/separated/married,none,4,real_estate,33,bank,rent,3,skilled_employee/official,1,yes,no,bad
+<0,36,existing_dues_cleared_for_now,car (used),8335,unknown_or_no_savings_account,>7,3,male-single,none,4,unknown/no_property,47,none,for_free,1,skilled_employee/official,1,no,no,bad
+0=<_and_<200,48,delay_in_paying_off,business,6681,unknown_or_no_savings_account,1=<_and_<4,4,male-single,none,4,unknown/no_property,38,none,for_free,1,skilled_employee/official,2,yes,no,good
+no_checking_account,24,delay_in_paying_off,business,2375,500=<_and_<1000,1=<_and_<4,4,male-single,none,2,car or other,44,none,own,2,skilled_employee/official,2,yes,no,good
+<0,18,existing_dues_cleared_for_now,car (new),1216,<100,<1,4,female-divorced/separated/married,none,3,car or other,23,none,rent,1,skilled_employee/official,1,yes,no,bad
+0=<_and_<200,24,existing_dues_cleared_for_now,radio/television,5084,unknown_or_no_savings_account,>7,2,female-divorced/separated/married,none,4,car or other,42,none,own,1,skilled_employee/official,1,yes,no,good
+>200,15,existing_dues_cleared_for_now,radio/television,2327,<100,<1,2,female-divorced/separated/married,none,3,real_estate,25,none,own,1,unskilled-resident,1,no,no,bad
+<0,12,none_taken/all_dues_cleared,car (new),1082,<100,1=<_and_<4,4,male-single,none,4,car or other,48,bank,own,2,skilled_employee/official,1,no,no,bad
+no_checking_account,12,existing_dues_cleared_for_now,radio/television,886,unknown_or_no_savings_account,1=<_and_<4,4,female-divorced/separated/married,none,2,car or other,21,none,own,1,skilled_employee/official,1,no,no,good
+<0,24,critical_account,car (used),2957,<100,>7,4,male-single,none,4,building society/savings agreement/life insurance,63,none,own,2,skilled_employee/official,1,yes,no,good
+no_checking_account,24,critical_account,radio/television,2611,<100,>7,4,male-married/widowed,co-applicant,3,real_estate,46,none,own,2,skilled_employee/official,1,no,no,good
+<0,36,existing_dues_cleared_for_now,furniture/equipment,5179,<100,4=<_and_<7,4,male-single,none,2,building society/savings agreement/life insurance,29,none,own,1,skilled_employee/official,1,no,no,bad
+no_checking_account,18,existing_dues_cleared_for_now,repairs,1943,<100,<1,4,female-divorced/separated/married,none,4,real_estate,23,none,own,1,skilled_employee/official,1,no,no,bad
+no_checking_account,24,all_dues_atbank_cleared,business,1559,<100,4=<_and_<7,4,male-single,none,4,car or other,50,bank,own,1,skilled_employee/official,1,yes,no,good
+no_checking_account,18,existing_dues_cleared_for_now,furniture/equipment,3422,<100,>7,4,male-single,none,4,building society/savings agreement/life insurance,47,bank,own,3,skilled_employee/official,2,yes,no,good
+0=<_and_<200,21,existing_dues_cleared_for_now,furniture/equipment,3976,unknown_or_no_savings_account,4=<_and_<7,2,male-single,none,3,car or other,35,none,own,1,skilled_employee/official,1,yes,no,good
+no_checking_account,18,existing_dues_cleared_for_now,car (new),6761,unknown_or_no_savings_account,1=<_and_<4,2,male-single,none,4,car or other,68,none,rent,2,skilled_employee/official,1,no,no,bad
+<0,20,critical_account,car (new),2235,<100,1=<_and_<4,4,male-married/widowed,guarantor,2,building society/savings agreement/life insurance,33,bank,rent,2,skilled_employee/official,1,no,yes,bad
+no_checking_account,24,critical_account,car (used),4042,unknown_or_no_savings_account,4=<_and_<7,3,male-single,none,4,building society/savings agreement/life insurance,43,none,own,2,skilled_employee/official,1,yes,no,good
+<0,18,all_dues_atbank_cleared,car (new),1442,<100,4=<_and_<7,4,male-single,none,4,unknown/no_property,32,none,for_free,2,unskilled-resident,2,no,no,bad
+no_checking_account,24,existing_dues_cleared_for_now,car (new),1474,100=<_and_<500,<1,4,male-married/widowed,none,3,real_estate,33,none,own,1,skilled_employee/official,1,yes,no,good
+no_checking_account,10,existing_dues_cleared_for_now,retraining,894,unknown_or_no_savings_account,4=<_and_<7,4,female-divorced/separated/married,none,3,building society/savings agreement/life insurance,40,none,own,1,skilled_employee/official,1,yes,no,good
+no_checking_account,15,critical_account,furniture/equipment,3343,<100,1=<_and_<4,4,male-single,none,2,unknown/no_property,28,none,for_free,1,skilled_employee/official,1,yes,no,good
+<0,15,existing_dues_cleared_for_now,car (new),3959,<100,1=<_and_<4,3,female-divorced/separated/married,none,2,building society/savings agreement/life insurance,29,none,own,1,skilled_employee/official,1,yes,no,bad
+no_checking_account,9,existing_dues_cleared_for_now,car (new),3577,100=<_and_<500,1=<_and_<4,1,male-single,guarantor,2,real_estate,26,none,rent,1,skilled_employee/official,2,no,yes,good
+no_checking_account,24,critical_account,car (used),5804,>1000,1=<_and_<4,4,male-single,none,2,real_estate,27,none,own,2,skilled_employee/official,1,no,no,good
+no_checking_account,18,delay_in_paying_off,business,2169,<100,1=<_and_<4,4,male-married/widowed,none,2,car or other,28,none,own,1,skilled_employee/official,1,yes,no,bad
+no_checking_account,27,critical_account,furniture/equipment,4526,>1000,<1,4,male-single,none,2,real_estate,32,stores,own,2,unskilled-resident,2,yes,no,good
+no_checking_account,10,existing_dues_cleared_for_now,furniture/equipment,2210,<100,1=<_and_<4,2,male-single,none,2,real_estate,25,bank,rent,1,unskilled-resident,1,no,no,bad
+no_checking_account,15,existing_dues_cleared_for_now,furniture/equipment,2221,500=<_and_<1000,1=<_and_<4,2,female-divorced/separated/married,none,4,car or other,20,none,rent,1,skilled_employee/official,1,no,no,good
+<0,18,existing_dues_cleared_for_now,radio/television,2389,<100,<1,4,female-divorced/separated/married,none,1,car or other,27,stores,own,1,skilled_employee/official,1,no,no,good
+no_checking_account,12,critical_account,furniture/equipment,3331,<100,>7,2,male-single,none,4,building society/savings agreement/life insurance,42,stores,own,1,skilled_employee/official,1,no,no,good
+no_checking_account,36,delay_in_paying_off,furniture/equipment,7678,500=<_and_<1000,4=<_and_<7,2,female-divorced/separated/married,none,4,car or other,40,none,own,2,skilled_employee/official,1,yes,no,good
+<0,24,critical_account,business,1382,100=<_and_<500,4=<_and_<7,4,male-single,none,1,real_estate,26,none,own,2,skilled_employee/official,1,yes,no,good
+no_checking_account,15,existing_dues_cleared_for_now,domestic appliances,874,unknown_or_no_savings_account,<1,4,female-divorced/separated/married,none,1,real_estate,24,none,own,1,skilled_employee/official,1,no,no,good
+<0,18,all_dues_atbank_cleared,radio/television,1940,<100,<1,3,male-single,co-applicant,4,unknown/no_property,36,bank,for_free,1,management/self-employed/highly_qualified/officer,1,yes,no,good
+<0,9,existing_dues_cleared_for_now,car (new),1422,<100,<1,3,male-single,none,2,unknown/no_property,27,none,for_free,1,management/self-employed/highly_qualified/officer,1,yes,no,bad
+no_checking_account,30,critical_account,radio/television,6742,unknown_or_no_savings_account,4=<_and_<7,2,male-single,none,3,building society/savings agreement/life insurance,36,none,own,2,skilled_employee/official,1,no,no,good
+no_checking_account,24,existing_dues_cleared_for_now,car (used),7814,<100,4=<_and_<7,3,male-single,none,3,car or other,38,none,own,1,management/self-employed/highly_qualified/officer,1,yes,no,good
+no_checking_account,24,existing_dues_cleared_for_now,car (used),9277,unknown_or_no_savings_account,1=<_and_<4,2,male-divorced/separated,none,4,unknown/no_property,48,none,for_free,1,skilled_employee/official,1,yes,no,good
+0=<_and_<200,30,critical_account,car (new),2181,unknown_or_no_savings_account,>7,4,male-single,none,4,real_estate,36,none,own,2,skilled_employee/official,1,no,no,good
+<0,12,existing_dues_cleared_for_now,education,795,<100,<1,4,female-divorced/separated/married,none,4,building society/savings agreement/life insurance,53,none,own,1,skilled_employee/official,1,no,no,bad
+0=<_and_<200,24,critical_account,business,2825,unknown_or_no_savings_account,4=<_and_<7,4,male-single,none,3,unknown/no_property,34,none,own,2,skilled_employee/official,2,yes,no,good
+0=<_and_<200,48,existing_dues_cleared_for_now,business,15672,<100,1=<_and_<4,2,male-single,none,2,car or other,23,none,own,1,skilled_employee/official,1,yes,no,bad
+no_checking_account,36,critical_account,car (new),6614,<100,>7,4,male-single,none,4,car or other,34,none,own,2,management/self-employed/highly_qualified/officer,1,yes,no,good
+no_checking_account,28,all_dues_atbank_cleared,car (used),7824,unknown_or_no_savings_account,<1,3,male-single,guarantor,4,real_estate,40,bank,rent,2,skilled_employee/official,2,yes,no,good
+<0,27,critical_account,business,2442,<100,>7,4,male-single,none,4,car or other,43,stores,own,4,management/self-employed/highly_qualified/officer,2,yes,no,good
+no_checking_account,15,critical_account,radio/television,1829,<100,>7,4,male-single,none,4,car or other,46,none,own,2,skilled_employee/official,1,yes,no,good
+<0,12,critical_account,car (new),2171,<100,1=<_and_<4,4,male-single,none,4,building society/savings agreement/life insurance,38,bank,own,2,unskilled-resident,1,no,yes,good
+0=<_and_<200,36,critical_account,car (used),5800,<100,1=<_and_<4,3,male-single,none,4,car or other,34,none,own,2,skilled_employee/official,1,yes,no,good
+no_checking_account,18,critical_account,radio/television,1169,unknown_or_no_savings_account,1=<_and_<4,4,male-single,none,3,building society/savings agreement/life insurance,29,none,own,2,skilled_employee/official,1,yes,no,good
+no_checking_account,36,delay_in_paying_off,car (used),8947,unknown_or_no_savings_account,4=<_and_<7,3,male-single,none,2,car or other,31,stores,own,1,management/self-employed/highly_qualified/officer,2,yes,no,good
+<0,21,existing_dues_cleared_for_now,radio/television,2606,<100,<1,4,female-divorced/separated/married,none,4,building society/savings agreement/life insurance,28,none,rent,1,management/self-employed/highly_qualified/officer,1,yes,no,good
+no_checking_account,12,critical_account,furniture/equipment,1592,>1000,4=<_and_<7,3,female-divorced/separated/married,none,2,building society/savings agreement/life insurance,35,none,own,1,skilled_employee/official,1,no,yes,good
+no_checking_account,15,existing_dues_cleared_for_now,furniture/equipment,2186,unknown_or_no_savings_account,4=<_and_<7,1,female-divorced/separated/married,none,4,real_estate,33,bank,rent,1,unskilled-resident,1,no,no,good
+<0,18,existing_dues_cleared_for_now,furniture/equipment,4153,<100,1=<_and_<4,2,male-single,co-applicant,3,car or other,42,none,own,1,skilled_employee/official,1,no,no,bad
+no_checking_account,36,critical_account,car (used),10477,unknown_or_no_savings_account,>7,2,male-single,none,4,unknown/no_property,42,none,for_free,2,skilled_employee/official,1,no,no,good
+no_checking_account,15,existing_dues_cleared_for_now,radio/television,1386,unknown_or_no_savings_account,1=<_and_<4,4,male-married/widowed,none,2,real_estate,40,none,rent,1,skilled_employee/official,1,yes,no,good
+<0,12,existing_dues_cleared_for_now,radio/television,1107,<100,1=<_and_<4,2,male-single,none,2,real_estate,20,none,rent,1,management/self-employed/highly_qualified/officer,2,yes,no,good
+<0,21,existing_dues_cleared_for_now,car (new),3763,unknown_or_no_savings_account,4=<_and_<7,2,male-single,co-applicant,2,real_estate,24,none,own,1,unskilled-resident,1,no,yes,good
+no_checking_account,15,delay_in_paying_off,car (used),3594,<100,<1,1,female-divorced/separated/married,none,2,building society/savings agreement/life insurance,46,none,own,2,unskilled-resident,1,no,no,good
+no_checking_account,36,delay_in_paying_off,radio/television,4454,<100,1=<_and_<4,4,female-divorced/separated/married,none,4,real_estate,34,none,own,2,skilled_employee/official,1,no,no,good
+0=<_and_<200,30,existing_dues_cleared_for_now,radio/television,2991,unknown_or_no_savings_account,>7,2,female-divorced/separated/married,none,4,car or other,25,none,own,1,skilled_employee/official,1,no,no,good
+no_checking_account,11,existing_dues_cleared_for_now,business,2142,>1000,>7,1,male-divorced/separated,none,2,real_estate,28,none,own,1,skilled_employee/official,1,yes,no,good
+<0,24,all_dues_atbank_cleared,business,3161,<100,1=<_and_<4,4,male-single,none,2,building society/savings agreement/life insurance,31,none,rent,1,skilled_employee/official,1,yes,no,bad
+0=<_and_<200,48,none_taken/all_dues_cleared,others,18424,<100,1=<_and_<4,1,female-divorced/separated/married,none,2,building society/savings agreement/life insurance,32,bank,own,1,management/self-employed/highly_qualified/officer,1,yes,yes,bad
+no_checking_account,10,existing_dues_cleared_for_now,car (used),2848,100=<_and_<500,1=<_and_<4,1,male-single,co-applicant,2,real_estate,32,none,own,1,skilled_employee/official,2,no,no,good
+<0,6,existing_dues_cleared_for_now,car (new),14896,<100,>7,1,male-single,none,4,unknown/no_property,68,bank,own,1,management/self-employed/highly_qualified/officer,1,yes,no,bad
+<0,24,existing_dues_cleared_for_now,furniture/equipment,2359,100=<_and_<500,unemployed,1,male-divorced/separated,none,1,building society/savings agreement/life insurance,33,none,own,1,skilled_employee/official,1,no,no,bad
+<0,24,existing_dues_cleared_for_now,furniture/equipment,3345,<100,>7,4,male-single,none,2,building society/savings agreement/life insurance,39,none,rent,1,management/self-employed/highly_qualified/officer,1,yes,no,bad
+no_checking_account,48,delay_in_paying_off,radio/television,12749,500=<_and_<1000,4=<_and_<7,4,male-single,none,1,car or other,37,none,own,1,management/self-employed/highly_qualified/officer,1,yes,no,good
+<0,9,existing_dues_cleared_for_now,radio/television,1366,<100,<1,3,female-divorced/separated/married,none,4,building society/savings agreement/life insurance,22,none,rent,1,skilled_employee/official,1,no,no,bad
+0=<_and_<200,12,existing_dues_cleared_for_now,car (new),2002,<100,4=<_and_<7,3,male-single,none,4,building society/savings agreement/life insurance,30,none,rent,1,skilled_employee/official,2,yes,no,good
+<0,18,critical_account,furniture/equipment,1049,<100,<1,4,female-divorced/separated/married,none,4,building society/savings agreement/life insurance,21,none,rent,1,skilled_employee/official,1,no,no,good
+<0,48,existing_dues_cleared_for_now,car (used),10297,<100,4=<_and_<7,4,male-single,none,4,unknown/no_property,39,stores,for_free,3,skilled_employee/official,2,yes,no,bad
+no_checking_account,30,existing_dues_cleared_for_now,radio/television,1867,unknown_or_no_savings_account,>7,4,male-single,none,4,car or other,58,none,own,1,skilled_employee/official,1,yes,no,good
+<0,24,existing_dues_cleared_for_now,furniture/equipment,1747,<100,<1,4,male-single,co-applicant,1,building society/savings agreement/life insurance,24,none,own,1,unskilled-resident,1,no,yes,good
+0=<_and_<200,9,existing_dues_cleared_for_now,radio/television,1670,<100,<1,4,female-divorced/separated/married,none,2,car or other,22,none,own,1,skilled_employee/official,1,yes,no,bad
+no_checking_account,9,critical_account,car (new),1224,<100,1=<_and_<4,3,male-single,none,1,real_estate,30,none,own,2,skilled_employee/official,1,no,no,good
+no_checking_account,12,critical_account,radio/television,522,500=<_and_<1000,>7,4,male-single,none,4,building society/savings agreement/life insurance,42,none,own,2,skilled_employee/official,2,yes,no,good
+<0,12,existing_dues_cleared_for_now,radio/television,1498,<100,1=<_and_<4,4,female-divorced/separated/married,none,1,car or other,23,bank,own,1,skilled_employee/official,1,no,no,good
+0=<_and_<200,30,delay_in_paying_off,radio/television,1919,100=<_and_<500,<1,4,male-single,none,3,unknown/no_property,30,stores,own,2,management/self-employed/highly_qualified/officer,1,no,no,bad
+0=<_and_<200,6,existing_dues_cleared_for_now,radio/television,2063,<100,<1,4,male-married/widowed,none,3,car or other,30,none,rent,1,management/self-employed/highly_qualified/officer,1,yes,no,good
+0=<_and_<200,60,existing_dues_cleared_for_now,education,6288,<100,1=<_and_<4,4,male-single,none,4,unknown/no_property,42,none,for_free,1,skilled_employee/official,1,no,no,bad
+no_checking_account,24,critical_account,car (used),6842,unknown_or_no_savings_account,1=<_and_<4,2,male-single,none,4,building society/savings agreement/life insurance,46,none,own,2,management/self-employed/highly_qualified/officer,2,yes,no,good
+no_checking_account,12,existing_dues_cleared_for_now,car (new),3527,unknown_or_no_savings_account,<1,2,male-single,none,3,building society/savings agreement/life insurance,45,none,own,1,management/self-employed/highly_qualified/officer,2,yes,no,good
+no_checking_account,10,existing_dues_cleared_for_now,car (new),1546,<100,1=<_and_<4,3,male-single,none,2,real_estate,31,none,own,1,unskilled-resident,2,no,yes,good
+no_checking_account,24,existing_dues_cleared_for_now,furniture/equipment,929,unknown_or_no_savings_account,4=<_and_<7,4,male-single,none,2,car or other,31,stores,own,1,skilled_employee/official,1,yes,no,good
+no_checking_account,4,critical_account,car (new),1455,<100,4=<_and_<7,2,male-single,none,1,real_estate,42,none,own,3,unskilled-resident,2,no,no,good
+<0,15,existing_dues_cleared_for_now,furniture/equipment,1845,<100,<1,4,female-divorced/separated/married,guarantor,1,building society/savings agreement/life insurance,46,none,rent,1,skilled_employee/official,1,no,no,good
+0=<_and_<200,48,none_taken/all_dues_cleared,car (new),8358,500=<_and_<1000,<1,1,female-divorced/separated/married,none,1,car or other,30,none,own,2,skilled_employee/official,1,no,no,good
+<0,24,all_dues_atbank_cleared,furniture/equipment,3349,500=<_and_<1000,<1,4,male-single,none,4,unknown/no_property,30,none,for_free,1,skilled_employee/official,2,yes,no,bad
+no_checking_account,12,existing_dues_cleared_for_now,car (new),2859,unknown_or_no_savings_account,unemployed,4,male-single,none,4,unknown/no_property,38,none,own,1,management/self-employed/highly_qualified/officer,1,yes,no,good
+no_checking_account,18,existing_dues_cleared_for_now,furniture/equipment,1533,<100,<1,4,male-married/widowed,co-applicant,1,building society/savings agreement/life insurance,43,none,own,1,unskilled-resident,2,no,no,bad
+no_checking_account,24,existing_dues_cleared_for_now,radio/television,3621,100=<_and_<500,>7,2,male-single,none,4,car or other,31,none,own,2,skilled_employee/official,1,no,no,bad
+0=<_and_<200,18,critical_account,business,3590,<100,unemployed,3,male-married/widowed,none,3,car or other,40,none,own,3,unemployed/unskilled-non_resident,2,yes,no,good
+<0,36,delay_in_paying_off,business,2145,<100,4=<_and_<7,2,male-single,none,1,car or other,24,none,own,2,skilled_employee/official,1,yes,no,bad
+0=<_and_<200,24,existing_dues_cleared_for_now,car (used),4113,500=<_and_<1000,<1,3,female-divorced/separated/married,none,4,car or other,28,none,rent,1,skilled_employee/official,1,no,no,bad
+no_checking_account,36,existing_dues_cleared_for_now,furniture/equipment,10974,<100,unemployed,4,female-divorced/separated/married,none,2,car or other,26,none,own,2,management/self-employed/highly_qualified/officer,1,yes,no,bad
+<0,12,existing_dues_cleared_for_now,car (new),1893,<100,1=<_and_<4,4,female-divorced/separated/married,guarantor,4,building society/savings agreement/life insurance,29,none,own,1,skilled_employee/official,1,yes,no,good
+<0,24,critical_account,radio/television,1231,>1000,>7,4,female-divorced/separated/married,none,4,building society/savings agreement/life insurance,57,none,rent,2,management/self-employed/highly_qualified/officer,1,yes,no,good
+0=<_and_<200,9,critical_account,radio/television,1154,<100,>7,2,male-single,none,4,real_estate,37,none,own,3,unskilled-resident,1,no,no,good
+<0,28,existing_dues_cleared_for_now,car (new),4006,<100,1=<_and_<4,3,male-single,none,2,car or other,45,none,own,1,unskilled-resident,1,no,no,bad
+0=<_and_<200,24,existing_dues_cleared_for_now,furniture/equipment,3069,100=<_and_<500,>7,4,male-single,none,4,unknown/no_property,30,none,for_free,1,skilled_employee/official,1,no,no,good
+no_checking_account,6,critical_account,radio/television,1740,<100,>7,2,male-married/widowed,none,2,real_estate,30,none,rent,2,skilled_employee/official,1,no,no,good
+no_checking_account,15,existing_dues_cleared_for_now,car (new),3556,unknown_or_no_savings_account,1=<_and_<4,3,male-single,none,2,unknown/no_property,29,none,own,1,skilled_employee/official,1,no,no,good
+no_checking_account,24,existing_dues_cleared_for_now,radio/television,2397,500=<_and_<1000,>7,3,male-single,none,2,car or other,35,bank,own,2,skilled_employee/official,1,yes,no,bad
+0=<_and_<200,6,existing_dues_cleared_for_now,repairs,454,<100,<1,3,male-married/widowed,none,1,building society/savings agreement/life insurance,22,none,own,1,unskilled-resident,1,no,no,good
+0=<_and_<200,30,existing_dues_cleared_for_now,radio/television,1715,unknown_or_no_savings_account,1=<_and_<4,4,female-divorced/separated/married,none,1,car or other,26,none,own,1,skilled_employee/official,1,no,no,good
+0=<_and_<200,27,critical_account,radio/television,2520,500=<_and_<1000,1=<_and_<4,4,male-single,none,2,building society/savings agreement/life insurance,23,none,own,2,unskilled-resident,1,no,no,bad
+no_checking_account,15,existing_dues_cleared_for_now,radio/television,3568,<100,>7,4,female-divorced/separated/married,none,2,car or other,54,bank,rent,1,management/self-employed/highly_qualified/officer,1,yes,no,good
+no_checking_account,42,existing_dues_cleared_for_now,radio/television,7166,unknown_or_no_savings_account,4=<_and_<7,2,male-married/widowed,none,4,building society/savings agreement/life insurance,29,none,rent,1,skilled_employee/official,1,yes,no,good
+<0,11,critical_account,car (new),3939,<100,1=<_and_<4,1,male-single,none,2,real_estate,40,none,own,2,unskilled-resident,2,no,no,good
+0=<_and_<200,15,existing_dues_cleared_for_now,repairs,1514,100=<_and_<500,1=<_and_<4,4,male-single,guarantor,2,real_estate,22,none,own,1,skilled_employee/official,1,no,no,good
+no_checking_account,24,existing_dues_cleared_for_now,car (new),7393,<100,1=<_and_<4,1,male-single,none,4,building society/savings agreement/life insurance,43,none,own,1,unskilled-resident,2,no,no,good
+<0,24,all_dues_atbank_cleared,car (new),1193,<100,unemployed,1,female-divorced/separated/married,co-applicant,4,unknown/no_property,29,none,rent,2,unemployed/unskilled-non_resident,1,no,no,bad
+<0,60,existing_dues_cleared_for_now,business,7297,<100,>7,4,male-single,co-applicant,4,unknown/no_property,36,none,rent,1,skilled_employee/official,1,no,no,bad
+no_checking_account,30,critical_account,radio/television,2831,<100,1=<_and_<4,4,female-divorced/separated/married,none,2,car or other,33,none,own,1,skilled_employee/official,1,yes,no,good
+>200,24,existing_dues_cleared_for_now,radio/television,1258,500=<_and_<1000,1=<_and_<4,3,female-divorced/separated/married,none,3,car or other,57,none,own,1,unskilled-resident,1,no,no,good
+0=<_and_<200,6,existing_dues_cleared_for_now,radio/television,753,<100,1=<_and_<4,2,female-divorced/separated/married,guarantor,3,real_estate,64,none,own,1,skilled_employee/official,1,no,no,good
+no_checking_account,24,delay_in_paying_off,car (new),2538,<100,>7,4,male-single,none,4,car or other,47,none,own,2,unskilled-resident,2,no,no,bad
+0=<_and_<200,15,all_dues_atbank_cleared,car (new),1264,100=<_and_<500,1=<_and_<4,2,male-married/widowed,none,2,building society/savings agreement/life insurance,25,none,rent,1,skilled_employee/official,1,no,no,bad
+0=<_and_<200,30,critical_account,furniture/equipment,8386,<100,4=<_and_<7,2,male-single,none,2,building society/savings agreement/life insurance,49,none,own,1,skilled_employee/official,1,no,no,bad
+no_checking_account,48,existing_dues_cleared_for_now,business,4844,<100,unemployed,3,male-single,none,2,car or other,33,bank,rent,1,management/self-employed/highly_qualified/officer,1,yes,no,bad
+>200,21,existing_dues_cleared_for_now,car (new),2923,100=<_and_<500,1=<_and_<4,1,female-divorced/separated/married,none,1,car or other,28,bank,own,1,management/self-employed/highly_qualified/officer,1,yes,no,good
+<0,15,critical_account,furniture/equipment,1433,<100,1=<_and_<4,4,female-divorced/separated/married,none,3,building society/savings agreement/life insurance,25,none,rent,2,skilled_employee/official,1,no,no,good
+no_checking_account,13,existing_dues_cleared_for_now,radio/television,1409,100=<_and_<500,unemployed,2,female-divorced/separated/married,none,4,real_estate,64,none,own,1,skilled_employee/official,1,no,no,good
+<0,24,existing_dues_cleared_for_now,car (used),6579,<100,unemployed,4,male-single,none,2,unknown/no_property,29,none,for_free,1,management/self-employed/highly_qualified/officer,1,yes,no,good
+0=<_and_<200,24,critical_account,radio/television,1743,<100,>7,4,male-single,none,2,building society/savings agreement/life insurance,48,none,own,2,unskilled-resident,1,no,no,good
+no_checking_account,12,critical_account,education,3565,unknown_or_no_savings_account,<1,2,male-single,none,1,building society/savings agreement/life insurance,37,none,own,2,unskilled-resident,2,no,no,good
+<0,18,existing_dues_cleared_for_now,radio/television,1936,unknown_or_no_savings_account,4=<_and_<7,2,male-married/widowed,none,4,car or other,23,none,rent,2,unskilled-resident,1,no,no,good
+<0,30,existing_dues_cleared_for_now,car (used),3857,<100,1=<_and_<4,4,male-divorced/separated,none,4,building society/savings agreement/life insurance,40,none,own,1,management/self-employed/highly_qualified/officer,1,yes,no,good
+no_checking_account,12,existing_dues_cleared_for_now,radio/television,804,<100,>7,4,male-single,none,4,car or other,38,none,own,1,skilled_employee/official,1,no,no,good
+<0,45,existing_dues_cleared_for_now,radio/television,1845,<100,1=<_and_<4,4,male-single,none,4,unknown/no_property,23,none,for_free,1,skilled_employee/official,1,yes,no,bad

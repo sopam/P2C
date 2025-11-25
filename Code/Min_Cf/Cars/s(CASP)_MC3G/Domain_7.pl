@@ -1,0 +1,14 @@
+%f_domain(persons, 'more').
+f_domain(persons, '4').
+f_domain(persons, '2').
+%f_domain(safety, 'high').
+f_domain(safety, 'med').
+f_domain(safety, 'low').
+%f_domain(buying, 'vhigh').
+f_domain(buying, 'med').
+f_domain(buying, 'low').
+f_domain(buying, 'high').
+%f_domain(maint, 'vhigh').
+f_domain(maint, 'low').
+f_domain(maint, 'med').
+f_domain(maint, 'high').

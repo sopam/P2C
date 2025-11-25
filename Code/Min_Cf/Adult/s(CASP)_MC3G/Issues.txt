@@ -1,0 +1,14 @@
+1) C3G
+L0,L1 and L2
+We have the cf state. We have the Norms.
+We feed the cf state  to the path finding algorithm.
+But the path will require more effort than the norm states
+Divorced -> Separated: CF
+Divorced -> Marriage -> Separated
+
+
+2) P2C:
+
+We find the path to cf state. 
+We can only compute L0, maybe L1.
+It takes too long
